@@ -1,80 +1,69 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-10-03",
   "puzzles": [
     {
       "id": 1,
-      "title": "KISA",
-      "grid": [
-        "KISA",
-        "A...",
-        "S...",
-        "A..."
-      ],
-      "words": ["KISA", "KASA"],
-      "circle": ["K", "I", "S", "A", "A", "E", "L", "M"]
-    },
-    {
-      "id": 2,
       "title": "KALEM",
       "grid": [
         "KALEM",
-        "A....",
-        "L....",
-        "E...."
+        "A..KA",
+        "L..MK",
+        "E..EA",
+        "...KS"
       ],
-      "words": ["KALEM", "KALE"],
-      "circle": ["K", "A", "L", "E", "M", "İ", "R"]
+      "words": ["KALEM", "KALE", "EKMEK", "MAKAS"],
+      "circle": ["K", "K", "A", "A", "E", "E", "L", "M", "S", "R"]
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "DENİZ",
       "grid": [
         "DENİZ",
-        "E....",
-        "M....",
-        "İ....",
-        "R...."
+        "E.E..",
+        "M.M..",
+        "İ.L..",
+        "R.İ.."
       ],
-      "words": ["DENİZ", "DEMİR"],
-      "circle": ["D", "E", "N", "İ", "Z", "M", "R", "S"]
+      "words": ["DENİZ", "DEMİR", "NEMLİ"],
+      "circle": ["D", "E", "N", "İ", "Z", "M", "L", "R", "A", "S"]
     },
     {
-      "id": 4,
-      "title": "ÇİLEK",
-      "grid": [
-        "ÇİLEK",
-        "İ....",
-        "Ç....",
-        "E....",
-        "K...."
-      ],
-      "words": ["ÇİLEK", "ÇİÇEK"],
-      "circle": ["Ç", "Ç", "İ", "L", "E", "K", "A", "R"]
-    },
-    {
-      "id": 5,
+      "id": 3,
       "title": "KİTAP",
       "grid": [
         "KİTAP",
-        "A....",
-        "L....",
-        "E....",
-        "M...."
+        "A...İ",
+        "L...L",
+        "E...A",
+        "M...V"
       ],
-      "words": ["KİTAP", "KALEM"],
-      "circle": ["K", "İ", "T", "A", "P", "L", "E", "M"]
+      "words": ["KİTAP", "KALEM", "PİLAV"],
+      "circle": ["K", "İ", "T", "A", "P", "L", "E", "M", "V", "S"]
     },
     {
-      "id": 6,
-      "title": "PİLAV",
+      "id": 4,
+      "title": "MEYVE",
       "grid": [
-        "PİLAV",
-        "İ....",
-        "L...."
+        "ELMA",
+        "Rİ.R",
+        "İM.M",
+        "KO.U",
+        ".N.T"
       ],
-      "words": ["PİLAV", "PİL"],
-      "circle": ["P", "İ", "L", "A", "V", "E", "R", "S"]
+      "words": ["ELMA", "ERİK", "LİMON", "ARMUT"],
+      "circle": ["E", "L", "M", "A", "R", "İ", "K", "O", "N", "U", "T", "S"]
+    },
+    {
+      "id": 5,
+      "title": "KAPI",
+      "grid": [
+        "KAPI",
+        ".YAZ",
+        ".I.."
+      ],
+      "words": ["KAPI", "AYI", "YAZ"],
+      "circle": ["K", "A", "P", "I", "Y", "Z", "E", "L"]
     }
   ]
 }
