@@ -1,46 +1,46 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-10-03",
   "levels": [
     {
-      "title": "BAŞLANGIÇ",
-      "words": ["UZAK", "AKIL", "KAZ", "KAL", "ZIL"]
-    },
-    {
-      "title": "KELİMELER",
-      "words": ["KALEM", "ELMA", "MAL", "KALE", "LEM"]
-    },
-    {
-      "title": "DENİZ",
-      "words": ["DENİZ", "İZİN", "DEN", "NİZ", "İZ"]
-    },
-    {
-      "title": "GÜNEŞ",
-      "words": ["GÜNEŞ", "GÜN", "NES", "ŞEN", "GÜL"]
-    },
-    {
-      "title": "KİTAP",
-      "words": ["KİTAP", "KİT", "TAP", "PİT", "AKI"]
-    },
-    {
-      "title": "MEYVE",
-      "words": ["ELMA", "ARMUT", "MUZ", "AYVA", "NAR"]
-    },
-    {
-      "title": "DOĞA",
-      "words": ["ORMAN", "DAĞ", "AĞAÇ", "YOL", "GÖL"]
-    },
-    {
-      "title": "RENKLER",
-      "words": ["MAVİ", "YEŞİL", "SARI", "MOR", "AL"]
+      "title": "MEYVELER",
+      "words": ["ELMA", "ARMUT", "AYVA", "NAR", "MUZ"]
     },
     {
       "title": "HAYVANLAR",
-      "words": ["KEDİ", "KUŞ", "AYI", "FİL", "ASLAN"]
+      "words": ["KEDİ", "KÖPEK", "KUŞ", "AYI", "BALIK", "FİL"]
     },
     {
-      "title": "ŞEHİRLER",
-      "words": ["ANKARA", "İZMİR", "BURSA", "KONYA"]
+      "title": "AİLE",
+      "words": ["ANNE", "BABA", "KARDEŞ", "DEDE", "KIZ"]
+    },
+    {
+      "title": "RENKLER",
+      "words": ["MAVİ", "YEŞİL", "SARI", "MOR", "KIRMIZI"]
+    },
+    {
+      "title": "DOĞA",
+      "words": ["DAĞ", "GÖL", "AĞAÇ", "ÇİÇEK", "DENİZ", "ORMAN"]
+    },
+    {
+      "title": "OKUL",
+      "words": ["KİTAP", "KALEM", "SIRA", "DERS", "SINIF"]
+    },
+    {
+      "title": "EV",
+      "words": ["MASA", "KAPI", "YATAK", "LAMBA", "AYNA"]
+    },
+    {
+      "title": "YİYECEK",
+      "words": ["EKMEK", "PEYNİR", "ZEYTİN", "SİMİT", "ÇAY"]
+    },
+    {
+      "title": "VÜCUT",
+      "words": ["BAŞ", "KOL", "BACAK", "GÖZ", "KULAK", "AYAK"]
+    },
+    {
+      "title": "SPOR",
+      "words": ["FUTBOL", "GOL", "TAKIM", "KUPA", "HAKEM"]
     }
   ]
 }
