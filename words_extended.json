@@ -1,0 +1,62 @@
+{
+  "Ülkeler": [
+    "TÜRKİYE", "ALMANYA", "FRANSA", "İTALYA", "İSPANYA",
+    "İNGİLTERE", "YUNANİSTAN", "PORTEKİZ", "HOLLANDA", "BELÇİKA",
+    "İSVİÇRE", "AVUSTURYA", "POLONYA", "RUSYA", "ÇİN",
+    "JAPONYA", "HİNDİSTAN", "BREZİLYA", "ARJANTİN", "MEKSİKA",
+    "KANADA", "AVUSTRALYA", "MISIR", "FAS", "KENYA"
+  ],
+  "Uzay": [
+    "GEZEGEN", "YILDIZ", "GÜNEŞ", "DÜNYA", "MARS",
+    "JÜPİTER", "SATÜRN", "VENÜS", "MERKÜR", "URANÜS",
+    "NEPTÜN", "PLÜTON", "AY", "GÖKTAŞI", "KUYRUKLUYILDIZ",
+    "GALAKSİ", "SAMANYOLU", "ROKET", "UYDU", "ASTRONOT",
+    "TELESKOP", "KOZMİK", "YÖRÜNGE", "TUTULMA", "METEOR"
+  ],
+  "Matematik": [
+    "SAYI", "TOPLAMA", "ÇIKARMA", "ÇARPMA", "BÖLME",
+    "KESİR", "ONDALIK", "YÜZDE", "ORAN", "ORTALAMA",
+    "GEOMETRİ", "ALGEBRA", "DENKLEM", "FONKSİYON", "LOGARİTMA",
+    "AÇI", "ÜÇGEN", "KARE", "DAİRE", "DİKDÖRTGEN",
+    "SİLİNDİR", "KÜP", "PİRAMİT", "KONİ", "KÜRE"
+  ],
+  "Şekiller": [
+    "KARE", "DAİRE", "ÜÇGEN", "DİKDÖRTGEN", "BEŞGEN",
+    "ALTIGEN", "YEDİGEN", "SEKİZGEN", "ELİPS", "YILDIZ",
+    "KALP", "OK", "ARTI", "ÇARPI", "SARMAL",
+    "DAMLA", "YARIMAY", "HİLAL", "KÜP", "KÜRE"
+  ],
+  "Hayvan Sesleri": [
+    "MİYAV", "HAVHAV", "MÖÖÖ", "MEEEE", "VAAAK",
+    "GAKGAK", "HIHIHI", "ÖÖÖÖÖ", "CIVCIV", "HORHOR",
+    "MIYAV", "HAVHAV", "MELE", "BÖÖÖ", "GUDUBET"
+  ],
+  "Tatlılar": [
+    "BAKLAVA", "KADAYIF", "SÜTLAP", "KAZANDİBİ", "REVANİ",
+    "ŞEKERPARE", "LOKMA", "HELVA", "PİŞMANİYE", "LOKUM",
+    "AKİDE", "CEZERYE", "MACUN", "PESTİL", "KÖME",
+    "SÜTLAÇ", "AYVA TATLISI", "İNCİR TATLISI", "KABAK TATLISI", "PUDİNG"
+  ],
+  "Bilim": [
+    "FİZİK", "KİMYA", "BİYOLOJİ", "ASTRONOMİ", "JEOLOJİ",
+    "ATOM", "MOLEKÜL", "ELEKTRON", "PROTON", "NÖTRON",
+    "ENERJİ", "KUVVET", "HAREKET", "ISI", "IŞIK",
+    "SES", "ELEKTRİK", "MANYETİZMA", "YERÇEKİMİ", "BASINÇ"
+  ],
+  "Duyular": [
+    "GÖRME", "İŞİTME", "KOKLAMA", "TATMA", "DOKUNMA",
+    "ACIKMA", "SUSAMA", "YORGUNLUK", "UYKU", "AĞRI",
+    "KAŞINMA", "ÜŞÜME", "TERLEME", "BAŞ DÖNMESİ", "MIYAVLAMA"
+  ],
+  "Müzik Türleri": [
+    "POP", "ROCK", "CAZ", "KLASİK", "ELEKTRONİK",
+    "RAP", "HIPHOP", "REGGAE", "BLUES", "FOLK",
+    "OPERA", "SANAT MÜZİĞİ", "ARABESK", "TÜRKÜ", "ROMANTİK"
+  ],
+  "Spor Dalları": [
+    "FUTBOL", "BASKETBOL", "VOLEYBOL", "HENTBOL", "TENİS",
+    "MASA TENİSİ", "BADMİNTON", "GÜREŞ", "BOKS", "JUDO",
+    "TAEKWONDO", "KARATE", "ESKRİM", "OKÇULUK", "ATLETİZM",
+    "YÜZME", "KÜREK", "YELKEN", "BİNİCİLİK", "JİMNASTİK"
+  ]
+}
