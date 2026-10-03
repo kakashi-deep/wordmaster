@@ -3,5 +3,6 @@
   "sources": [
     "https://raw.githubusercontent.com/kakashi-deep/wordmaster/main/words.json",
     "https://raw.githubusercontent.com/kakashi-deep/wordmaster/main/words_extended.json"
-  ]
+  ],
+  "fakeUsers": "https://raw.githubusercontent.com/kakashi-deep/wordmaster/main/fake_users.json"
 }
