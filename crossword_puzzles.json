@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-03",
+  "puzzles": [
+    {
+      "id": 1,
+      "title": "Başlangıç",
+      "grid": ["KISA", "A...", "S...", "A..."],
+      "words": ["KISA", "KASA"],
+      "circle": ["K", "I", "S", "A", "E", "L", "M"]
+    },
+    {
+      "id": 2,
+      "title": "Kalem",
+      "grid": ["KALEM", "A....", "L....", "E....", "M...."],
+      "words": ["KALEM", "KALE"],
+      "circle": ["K", "A", "L", "E", "M", "İ", "R"]
+    },
+    {
+      "id": 3,
+      "title": "Deniz",
+      "grid": ["DENİZ", "A....", "M....", "L....", "A...."],
+      "words": ["DENİZ", "DAMLA"],
+      "circle": ["D", "E", "N", "İ", "Z", "A", "M", "L", "K"]
+    },
+    {
+      "id": 4,
+      "title": "Çiçek",
+      "grid": ["ÇİLEK", "İ....", "Ç....", "E....", "K...."],
+      "words": ["ÇİLEK", "ÇİÇEK"],
+      "circle": ["Ç", "İ", "L", "E", "K", "A", "R"]
+    },
+    {
+      "id": 5,
+      "title": "Mutfak",
+      "grid": ["ÇATAL", "E...A", "T...B", "V...A", "E...K"],
+      "words": ["ÇATAL", "CEVİZ"],
+      "circle": ["Ç", "A", "T", "L", "C", "E", "V", "İ", "Z"]
+    },
+    {
+      "id": 6,
+      "title": "Kitap",
+      "grid": ["KİTAP", "A....", "L....", "E....", "M...."],
+      "words": ["KİTAP", "KALEM"],
+      "circle": ["K", "İ", "T", "A", "P", "L", "E", "M", "R"]
+    }
+  ]
+}
