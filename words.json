@@ -1,0 +1,179 @@
+{
+  "_meta": {
+    "version": 1,
+    "updatedAt": "2026-10-03",
+    "note": "Kelime Ustası - uzak kelime listesi. Yeni versiyon eklerken version'ı artırın."
+  },
+  "Hayvanlar": [
+    "KEDİ", "KÖPEK", "KUŞ", "BALIK", "ASLAN", "KAPLAN", "FİL",
+    "ZÜRAFA", "MAYMUN", "AYI", "KURT", "TİLKİ", "TAVŞAN",
+    "SIÇAN", "YILAN", "KARTAL", "BAYKUŞ", "PENGUEN", "YUNUS",
+    "BALİNA", "KÖPEKBALIĞI", "GERGEDAN", "SUAYGIRI", "ZEBRA",
+    "DEVE", "KEÇİ", "KOYUN", "İNEK", "HOROZ", "TAVUK",
+    "ÖRDEK", "KAZ", "HİNDİ", "GÜVERCİN", "SERÇE", "AKREP",
+    "ÖRÜMCEK", "KARINCA", "ARI", "SİNEK", "KELEBEK", "ÇEKİRGE"
+  ],
+  "Meyveler": [
+    "ELMA", "ARMUT", "MUZ", "ÇİLEK", "KİRAZ", "ÜZÜM",
+    "KARPUZ", "KAVUN", "PORTAKAL", "LİMON", "ŞEFTALİ",
+    "KAYISI", "ERİK", "NAR", "İNCİR", "AVOKADO", "MANGO",
+    "ANANAS", "KİVİ", "HURMA", "DUT", "VİŞNE", "AYVA",
+    "GREYFURT", "MANDALİNA", "YABANMERSİNİ", "BÖĞÜRTLEN",
+    "AHUDUDU", "KESTANE"
+  ],
+  "Sebzeler": [
+    "DOMATES", "SALATALIK", "PATATES", "SOĞAN", "SARIMSAK",
+    "HAVUÇ", "LAHANA", "KARNABAHAR", "BROKOLİ", "ISPANAK",
+    "MAYDANOZ", "BİBER", "PATLICAN", "KABAK", "BAMYA",
+    "BEZELYE", "FASULYE", "NOHUT", "MERCİMEK", "PIRASA",
+    "TURP", "ŞALGAM", "ENGİNAR", "KUŞKONMAZ", "MARUL",
+    "ROKA", "TERE", "SEMİZOTU"
+  ],
+  "Renkler": [
+    "KIRMIZI", "MAVİ", "YEŞİL", "SARI", "TURUNCU", "MOR",
+    "PEMBE", "BEYAZ", "SİYAH", "GRI", "LACİVERT", "BORDO",
+    "TURKUAZ", "ALTIN", "GÜMÜŞ", "BEJ", "KAHVERENGİ",
+    "EFLATUN", "FISTIKİ", "NEON"
+  ],
+  "Meslekler": [
+    "DOKTOR", "ÖĞRETMEN", "MÜHENDİS", "AVUKAT", "HEMŞİRE",
+    "POLİS", "ASKER", "İTFAİYECİ", "PİLOT", "ŞOFÖR",
+    "AŞÇI", "FIRINCI", "KASAP", "MANAV", "BERBER",
+    "TERZİ", "AYAKKABICI", "MARANGOZ", "DEMİRCİ", "ÇİFTÇİ",
+    "BALIKÇI", "RESSAM", "MÜZİSYEN", "YAZAR", "GAZETECİ",
+    "FOTOĞRAFÇI", "MİMAR", "DİŞÇİ", "VETERİNER", "ECZACI",
+    "BİLİMADAMI", "ASTRONOT", "DALGIÇ", "GÜVENLİK"
+  ],
+  "Taşıtlar": [
+    "ARABA", "OTOBÜS", "KAMYON", "MOTOSİKLET", "BİSİKLET",
+    "TREN", "UÇAK", "HELİKOPTER", "GEMİ", "YELKENLİ",
+    "DENİZALTI", "KANOCU", "TAKSİ", "MINIBÜS", "TRAMVAY",
+    "METRO", "VAPUR", "BALON", "ROKET", "KAYIK",
+    "SANDAL", "JET", "AMBULANS", "İTFAİYE", "TRAKTÖR"
+  ],
+  "Yiyecekler": [
+    "EKMEK", "PEYNİR", "ZEYTİN", "YUMURTA", "BAL",
+    "REÇEL", "TEREYAĞI", "YOĞURT", "SÜT", "KAYMAK",
+    "BÖREK", "POĞAÇA", "SİMİT", "AÇMA", "KEK",
+    "KURABİYE", "PASTA", "TATLI", "BAKLava", "LOKUM",
+    "HELVA", "PİLAV", "MAKARNA", "ÇORBA", "KÖFTE",
+    "KEBAP", "PİZZA", "HAMBURGER", "SANDVİÇ", "SALATA",
+    "TURŞU", "KONSERVE", "ÇİKOLATA", "ŞEKER", "DONDURMA"
+  ],
+  "İçecekler": [
+    "SU", "ÇAY", "KAHVE", "SÜT", "AYRAN",
+    "MEYVESUYU", "LİMONATA", "GAZOZ", "KOLA", "SODA",
+    "MADENSUYU", "ŞALGAM", "BOZA", "SALEP", "SAHLEP",
+    "SICAKÇİKOLATA", "BİTKİÇAYI", "NANE", "IHLAMUR"
+  ],
+  "Doğa": [
+    "DAĞ", "TEPE", "OVA", "VADİ", "ORMAN",
+    "AĞAÇ", "ÇİÇEK", "YAPRAK", "KÖK", "DAL",
+    "DENİZ", "GÖL", "NEHİR", "IRMAK", "DERİ",
+    "ŞELALE", "ÇAĞLAYAN", "MAĞARA", "KAYA", "TOPRAK",
+    "KUM", "ÇAKIL", "BULUT", "GÜNEŞ", "AY",
+    "YILDIZ", "GÖKYÜZÜ", "YAĞMUR", "KAR", "DOLU",
+    "SİS", "RÜZGAR", "FIRTINA", "GÖKKUŞAĞI", "GÜN"
+  ],
+  "Ev": [
+    "MASA", "SANDALYE", "KOLTUK", "KANEPE", "YATAK",
+    "YORGAN", "YASTIK", "BATTANİYE", "PERDE", "HALI",
+    "KAPI", "PENCERE", "DUVAR", "TAVAN", "ZEMİN",
+    "MUTFAK", "BANYO", "YATAKODASI", "SALON", "BALKON",
+    "BUZDOLABI", "FIRIN", "OCAK", "ÇAMAŞIR", "BULAŞIK",
+    "SÜPÜRGE", "ÜTÜ", "TELEVİZYON", "RADYO", "AYNA",
+    "LAMBA", "AVİZE", "DOLAP", "ÇEKMECE", "RAF"
+  ],
+  "Kıyafetler": [
+    "GÖMLEK", "PANTOLON", "ETEEK", "ELBİSE", "CEKET",
+    "MONT", "KABAN", "HIRKA", "KAZAK", "SWeatshirt",
+    "TIŞÖRT", "ATLET", "İÇÇAMAŞIR", "ÇORAP", "AYAKKABI",
+    "TERLİK", "BOT", "ÇİZME", "SANDALET", "ŞAPKA",
+    "BERE", "ATKI", "ELDİVEN", "KRAVAT", "KEMER",
+    "GÖZLÜK", "SAAT", "YÜZÜK", "KÜPE", "BİLEKLİK",
+    "KOLYE", "ÇANTA", "CÜZDAN"
+  ],
+  "Spor": [
+    "FUTBOL", "BASKETBOL", "VOLEYBOL", "TENİS", "YÜZME",
+    "KOŞU", "GÜREŞ", "BOKS", "JUDO", "KARATE",
+    "YOGA", "PİLATES", "HALTER", "KAYAK", "PATEN",
+    "SÖRF", "DALGIÇLIK", "OKÇULUK", "BİNİCİLİK", "GOLF",
+    "BEYZBOL", "RUGBY", "HOKEY", "BİSİKLET", "MARATON",
+    "STADYUM", "ANTRENMAN", "MADALYA", "ŞAMPİYON", "TURNUVA"
+  ],
+  "Müzik": [
+    "GİTAR", "PİYANO", "KEMAN", "FLÜT", "DAVUL",
+    "ZURNA", "KAVAL", "UD", "SAZ", "BAĞLAMA",
+    "TARBUKA", "DAF", "MEY", "KANUN", "ÇELLO",
+    "SAKSafon", "TROMPET", "AKORDEON", "ORG", "ARP",
+    "ŞARKI", "NOTA", "RİTİM", "MELODİ", "KORO",
+    "SOLO", "KONSER", "SAHNE", "ORKESTRA"
+  ],
+  "Vücut": [
+    "BAŞ", "YÜZ", "GÖZ", "KULAK", "BURUN",
+    "AĞIZ", "DİŞ", "DİL", "DUDAK", "ÇENE",
+    "BOYUN", "OMUZ", "KOL", "DİRSEK", "EL",
+    "PARMAK", "TIRNAK", "GÖĞÜS", "KARIN", "SIRT",
+    "BACAK", "DİZ", "AYAK", "TOPUK", "KALP",
+    "AKCİĞER", "MİDE", "BEYİN", "KEMİK", "KAS"
+  ],
+  "Bitkiler": [
+    "GÜL", "LALE", "PAPATYA", "MENEKŞE", "ORKE",
+    "KARANFİL", "YASEMİN", "ZAMBAK", "SÜMBÜL", "NERGİS",
+    "AYÇİÇEĞİ", "KAKTÜS", "PALMİYE", "ÇAM", "MEŞE",
+    "SÖĞÜT", "KAVAK", "AKASYA", "MANOLYA", "LEYLak",
+    "BUĞDAY", "ARPA", "MISIR", "YULAF", "ÇELTİK"
+  ],
+  "Şehirler": [
+    "İSTANBUL", "ANKARA", "İZMİR", "BURSA", "ANTALYA",
+    "ADANA", "KONYA", "GAZİANTEP", "ŞANLIURFA", "KAYSERİ",
+    "MERSİN", "DİYARBAKIR", "ESKİŞEHİR", "SAMSUN", "DENİZLİ",
+    "MALATYA", "TRABZON", "ERZURUM", "VAN", "BATMAN",
+    "ELAZIĞ", "SİVAS", "MANİSA", "BALIKESİR", "KOCAELİ",
+    "SAKARYA", "MUĞLA", "AYDIN", "HATAY", "OSMANİYE"
+  ],
+  "Duygular": [
+    "MUTLULUK", "ÜZÜNTÜ", "SEVGİ", "NEFRET", "KIZGINLIK",
+    "KORKU", "CESARET", "UMUT", "UMUTSUZLUK", "HEYECAN",
+    "SAKİNLİK", "STRES", "KAYGI", "PANİK", "SEVİNÇ",
+    "HAYAL", "MERAK", "ŞÜPHE", "GÜVEN", "KISKANÇLIK",
+    "GURUR", "UTANÇ", "PİŞMANLIK", "MİNNET", "ÖZLEM"
+  ],
+  "Aile": [
+    "ANNE", "BABA", "KARDEŞ", "ABLA", "AĞABEY",
+    "DEDE", "NİNE", "HALA", "Teyze", "AMCA",
+    "DAYI", "KUZEN", "YEĞEN", "TORUN", "GELİN",
+    "DAMAT", "KAYINVALİDE", "KAYINPEDER", "GÖRÜMCE", "BALdız",
+    "ELTİ", "BACANAK", "ENİŞTE", "YENGE", "AİLE"
+  ],
+  "Zaman": [
+    "SANIYE", "DAKİKA", "SAAT", "GÜN", "HAFTA",
+    "AY", "YIL", "YÜZYIL", "SABAH", "ÖĞLE",
+    "AKŞAM", "GECE", "GÜNDOĞUMU", "GÜNBATIMI", "BUGÜN",
+    "YARIN", "DÜN", "EVVELSİGÜN", "ÖBÜRGÜN", "ŞİMDİ",
+    "SONRA", "ÖNCE", "MEVSİM", "İLKBAHAR", "YAZ",
+    "SONBAHAR", "KIŞ", "TAKVİM", "TARİH"
+  ],
+  "Teknoloji": [
+    "BİLGİSAYAR", "TELEFON", "TABLET", "KLAVYE", "FARE",
+    "EKRAN", "YAZICI", "TARAYICI", "KAMERA", "HOPARLÖR",
+    "KULAKLIK", "ŞARJ", "KABLO", "USB", "İNTERNET",
+    "YAZILIM", "DONANIM", "PROGRAM", "UYGULAMA", "WEBSİTE",
+    "E-POSTA", "MESAJ", "VİDEO", "FOTOĞRAF", "DOSYA"
+  ],
+  "Okul": [
+    "OKUL", "SINIF", "ÖĞRENCİ", "ÖĞRETMEN", "MÜDÜR",
+    "KİTAP", "DEFTER", "KALEM", "SİLGİ", "CETVEL",
+    "ÇANTA", "SIRA", "TAHTA", "TEBEŞİR", "ÖDEV",
+    "SINAV", "NOT", "KARNE", "DERS", "MATEMATİK",
+    "TÜRKÇE", "FEN", "SOSYAL", "İNGİLİZCE", "BEDEN",
+    "RESİM", "MÜZİK", "TARİH", "COĞRAFYA", "KİMYA"
+  ],
+  "Yiyecek-İçecek": [
+    "RESTORAN", "LOKANTA", "KAFE", "PASTANE", "FIRIN",
+    "MARKET", "BAKKAL", "MANAV", "KASAP", "MENÜ",
+    "SİPARİŞ", "HESAP", "GARSON", "AŞÇI", "MUTFAK",
+    "TABAK", "ÇATAL", "KAŞIK", "BIÇAK", "BARDAK",
+    "FİNCAN", "PEÇETE", "SERVİS"
+  ]
+}
