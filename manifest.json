@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "sources": [
     "https://raw.githubusercontent.com/kakashi-deep/wordmaster/main/words.json",
     "https://raw.githubusercontent.com/kakashi-deep/wordmaster/main/words_extended.json"
