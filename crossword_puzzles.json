@@ -1,69 +1,46 @@
 {
-  "version": 3,
+  "version": 1,
   "updatedAt": "2026-10-03",
-  "puzzles": [
+  "levels": [
     {
-      "id": 1,
-      "title": "KALEM",
-      "grid": [
-        "KALEM",
-        "A..KA",
-        "L..MK",
-        "E..EA",
-        "...KS"
-      ],
-      "words": ["KALEM", "KALE", "EKMEK", "MAKAS"],
-      "circle": ["K", "K", "A", "A", "E", "E", "L", "M", "S", "R"]
+      "title": "BAŞLANGIÇ",
+      "words": ["UZAK", "AKIL", "KAZ", "KAL", "ZIL"]
     },
     {
-      "id": 2,
+      "title": "KELİMELER",
+      "words": ["KALEM", "ELMA", "MAL", "KALE", "LEM"]
+    },
+    {
       "title": "DENİZ",
-      "grid": [
-        "DENİZ",
-        "E.E..",
-        "M.M..",
-        "İ.L..",
-        "R.İ.."
-      ],
-      "words": ["DENİZ", "DEMİR", "NEMLİ"],
-      "circle": ["D", "E", "N", "İ", "Z", "M", "L", "R", "A", "S"]
+      "words": ["DENİZ", "İZİN", "DEN", "NİZ", "İZ"]
     },
     {
-      "id": 3,
+      "title": "GÜNEŞ",
+      "words": ["GÜNEŞ", "GÜN", "NES", "ŞEN", "GÜL"]
+    },
+    {
       "title": "KİTAP",
-      "grid": [
-        "KİTAP",
-        "A...İ",
-        "L...L",
-        "E...A",
-        "M...V"
-      ],
-      "words": ["KİTAP", "KALEM", "PİLAV"],
-      "circle": ["K", "İ", "T", "A", "P", "L", "E", "M", "V", "S"]
+      "words": ["KİTAP", "KİT", "TAP", "PİT", "AKI"]
     },
     {
-      "id": 4,
       "title": "MEYVE",
-      "grid": [
-        "ELMA",
-        "Rİ.R",
-        "İM.M",
-        "KO.U",
-        ".N.T"
-      ],
-      "words": ["ELMA", "ERİK", "LİMON", "ARMUT"],
-      "circle": ["E", "L", "M", "A", "R", "İ", "K", "O", "N", "U", "T", "S"]
+      "words": ["ELMA", "ARMUT", "MUZ", "AYVA", "NAR"]
     },
     {
-      "id": 5,
-      "title": "KAPI",
-      "grid": [
-        "KAPI",
-        ".YAZ",
-        ".I.."
-      ],
-      "words": ["KAPI", "AYI", "YAZ"],
-      "circle": ["K", "A", "P", "I", "Y", "Z", "E", "L"]
+      "title": "DOĞA",
+      "words": ["ORMAN", "DAĞ", "AĞAÇ", "YOL", "GÖL"]
+    },
+    {
+      "title": "RENKLER",
+      "words": ["MAVİ", "YEŞİL", "SARI", "MOR", "AL"]
+    },
+    {
+      "title": "HAYVANLAR",
+      "words": ["KEDİ", "KUŞ", "AYI", "FİL", "ASLAN"]
+    },
+    {
+      "title": "ŞEHİRLER",
+      "words": ["ANKARA", "İZMİR", "BURSA", "KONYA"]
     }
   ]
 }
