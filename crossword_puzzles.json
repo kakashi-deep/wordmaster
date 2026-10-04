@@ -2,45 +2,12 @@
   "version": 2,
   "updatedAt": "2026-10-03",
   "levels": [
-    {
-      "title": "MEYVELER",
-      "words": ["ELMA", "ARMUT", "AYVA", "NAR", "MUZ"]
-    },
-    {
-      "title": "HAYVANLAR",
-      "words": ["KEDİ", "KÖPEK", "KUŞ", "AYI", "BALIK", "FİL"]
-    },
-    {
-      "title": "AİLE",
-      "words": ["ANNE", "BABA", "KARDEŞ", "DEDE", "KIZ"]
-    },
-    {
-      "title": "RENKLER",
-      "words": ["MAVİ", "YEŞİL", "SARI", "MOR", "KIRMIZI"]
-    },
-    {
-      "title": "DOĞA",
-      "words": ["DAĞ", "GÖL", "AĞAÇ", "ÇİÇEK", "DENİZ", "ORMAN"]
-    },
-    {
-      "title": "OKUL",
-      "words": ["KİTAP", "KALEM", "SIRA", "DERS", "SINIF"]
-    },
-    {
-      "title": "EV",
-      "words": ["MASA", "KAPI", "YATAK", "LAMBA", "AYNA"]
-    },
-    {
-      "title": "YİYECEK",
-      "words": ["EKMEK", "PEYNİR", "ZEYTİN", "SİMİT", "ÇAY"]
-    },
-    {
-      "title": "VÜCUT",
-      "words": ["BAŞ", "KOL", "BACAK", "GÖZ", "KULAK", "AYAK"]
-    },
-    {
-      "title": "SPOR",
-      "words": ["FUTBOL", "GOL", "TAKIM", "KUPA", "HAKEM"]
-    }
+    "words": [
+    "AK",
+    "AL",
+    "KAL",
+    "KIL",
+    "AKIL"
+    ]
   ]
-}
+} 
