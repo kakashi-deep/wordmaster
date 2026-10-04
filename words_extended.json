@@ -1,57 +1,182 @@
 {
-  "_meta": {
-    "version": 2,
-    "updatedAt": "2026-10-03",
-    "note": "Kelime Ustası - ek kelime listesi."
-  },
+  "_meta": {"version": 3, "updatedAt": "2026-10-04", "note": "Kelime Ustası - ek kelime listesi."},
   "Ülkeler": [
-    "TÜRKİYE", "ALMANYA", "FRANSA", "İTALYA", "İSPANYA",
-    "İNGİLTERE", "YUNANİSTAN", "PORTEKİZ", "HOLLANDA", "BELÇİKA",
-    "İSVİÇRE", "AVUSTURYA", "POLONYA", "RUSYA", "ÇİN",
-    "JAPONYA", "HİNDİSTAN", "BREZİLYA", "ARJANTİN", "MEKSİKA",
-    "KANADA", "AVUSTRALYA", "MISIR", "FAS", "KENYA"
+    "TÜRKİYE", "ALMANYA", "FRANSA", "İTALYA", "İSPANYA", "İNGİLTERE",
+    "YUNANİSTAN", "PORTEKİZ", "HOLLANDA", "BELÇİKA", "İSVİÇRE", "AVUSTURYA",
+    "POLONYA", "RUSYA", "ÇİN", "JAPONYA", "HİNDİSTAN", "BREZİLYA",
+    "ARJANTİN", "MEKSİKA", "KANADA", "AVUSTRALYA", "MISIR", "FAS",
+    "KENYA", "İRAN", "IRAK", "SURİYE", "ÜRDÜN", "LÜBNAN",
+    "İSRAİL", "KATAR", "KUVEYT", "UMMAN", "YEMEN", "AZERBAYCAN",
+    "GÜRCİSTAN", "ERMENİSTAN", "KAZAKİSTAN", "ÖZBEKİSTAN", "TÜRKMENİSTAN", "AFGANİSTAN",
+    "PAKİSTAN", "BANGLADEŞ", "NEPAL", "TAYLAND", "VİETNAM", "ENDONEZYA",
+    "MALEZYA", "SİNGAPUR", "FİLİPİNLER", "MOĞOLİSTAN", "LİBYA", "TUNUS",
+    "CEZAYİR", "NİJERYA", "GANA", "ETİYOPYA", "SOMALİ", "TANZANYA",
+    "UGANDA", "SENEGAL", "KAMERUN", "ANGOLA", "İSVEÇ", "NORVEÇ",
+    "FİNLANDİYA", "DANİMARKA", "İZLANDA", "İRLANDA", "MACARİSTAN", "ROMANYA",
+    "BULGARİSTAN", "SIRBİSTAN", "HIRVATİSTAN", "SLOVAKYA", "SLOVENYA", "ÇEKYA",
+    "UKRAYNA", "BEYAZRUSYA", "LİTVANYA", "LETONYA", "ESTONYA", "ARNAVUTLUK",
+    "MAKEDONYA", "KARADAĞ", "BOSNA", "KOSOVA", "MALTA", "KIBRIS",
+    "KÜBA", "ŞİLİ", "PERU", "KOLOMBİYA", "VENEZUELA", "EKVADOR",
+    "BOLİVYA", "PARAGUAY", "URUGUAY", "YENİZELANDA"
   ],
   "Uzay": [
-    "GEZEGEN", "YILDIZ", "GÜNEŞ", "DÜNYA", "MARS",
-    "JÜPİTER", "SATÜRN", "VENÜS", "MERKÜR", "URANÜS",
-    "NEPTÜN", "PLÜTON", "AY", "GÖKTAŞI", "KOMET",
-    "GALAKSİ", "SAMANYOLU", "ROKET", "UYDU", "ASTRONOT",
-    "TELESKOP", "KOZMOS", "YÖRÜNGE", "TUTULMA", "METEOR"
+    "GEZEGEN", "YILDIZ", "GÜNEŞ", "DÜNYA", "MARS", "JÜPİTER",
+    "SATÜRN", "VENÜS", "MERKÜR", "URANÜS", "NEPTÜN", "PLÜTON",
+    "AY", "GÖKTAŞI", "KOMET", "GALAKSİ", "SAMANYOLU", "ROKET",
+    "UYDU", "ASTRONOT", "TELESKOP", "KOZMOS", "YÖRÜNGE", "TUTULMA",
+    "METEOR", "KARADELİK", "NEBULA", "ASTEROİT", "ATMOSFER", "EVREN",
+    "GÖKADA", "BÜYÜKAYI", "KÜÇÜKAYI", "KUTUPYILDIZI", "SÜPERNOVA", "PULSAR",
+    "KUASAR", "KOZMONOT", "MEKİK", "FIRLATMA", "ROVER", "GÖZLEMEVİ",
+    "ZENİT", "OZON", "KUŞAK", "HALE", "HELYUM", "HİDROJEN",
+    "FÜZYON", "TİTAN", "EUROPA", "FOBOS", "DEİMOS", "CERES",
+    "HALLEY"
   ],
   "Matematik": [
     "SAYI", "RAKAM", "TOPLAMA", "ÇIKARMA", "ÇARPMA", "BÖLME",
-    "KESİR", "ONDALIK", "YÜZDE", "ORAN", "ORTALAMA",
-    "GEOMETRİ", "CEBİR", "DENKLEM", "FONKSİYON", "LOGARİTMA",
-    "AÇI", "ÇEVRE", "ALAN", "HACİM", "KAREKÖK",
-    "ASAL", "ÇİFT", "KÜME", "OLASILIK", "İSTATİSTİK"
+    "KESİR", "ONDALIK", "YÜZDE", "ORAN", "ORTALAMA", "GEOMETRİ",
+    "CEBİR", "DENKLEM", "FONKSİYON", "LOGARİTMA", "AÇI", "ÇEVRE",
+    "ALAN", "HACİM", "KAREKÖK", "ASAL", "ÇİFT", "KÜME",
+    "OLASILIK", "İSTATİSTİK", "TOPLAM", "FARK", "ÇARPIM", "BÖLÜM",
+    "KALAN", "PAY", "PAYDA", "TAMSAYI", "RASYONEL", "ÜS",
+    "KÖK", "SIFIR", "NEGATİF", "POZİTİF", "DOĞRU", "IŞIN",
+    "NOKTA", "DÜZLEM", "PARALEL", "DİK", "EĞİM", "KOORDİNAT",
+    "GRAFİK", "TABLO", "VEKTÖR", "MATRİS", "TÜREV", "İNTEGRAL",
+    "LİMİT", "DİZİ", "KOMBİNASYON", "PERMÜTASYON", "FAKTÖRİYEL", "KATSAYI",
+    "DEĞİŞKEN", "BİLİNMEYEN", "ÇÖZÜM", "İSPAT", "TEOREM", "AKSİYOM",
+    "ÖNERME", "MANTIK", "BİRLEŞİM", "KESİŞİM", "EBOB", "EKOK",
+    "ÇARPAN", "BÖLEN", "KATI", "TEK", "Pİ", "HİPOTENÜS"
   ],
   "Şekiller": [
-    "KARE", "DAİRE", "ÜÇGEN", "DİKDÖRTGEN", "BEŞGEN",
-    "ALTIGEN", "YEDİGEN", "SEKİZGEN", "ELİPS", "YILDIZ",
-    "KALP", "OK", "SARMAL", "DAMLA", "HİLAL",
-    "KÜP", "KÜRE", "SİLİNDİR", "PİRAMİT", "KONİ",
-    "ROMBÜS", "YAMUK", "ÇEMBER", "PRİZMA"
+    "KARE", "DAİRE", "ÜÇGEN", "DİKDÖRTGEN", "BEŞGEN", "ALTIGEN",
+    "YEDİGEN", "SEKİZGEN", "ELİPS", "YILDIZ", "KALP", "OK",
+    "SARMAL", "DAMLA", "HİLAL", "KÜP", "KÜRE", "SİLİNDİR",
+    "PİRAMİT", "KONİ", "ROMBÜS", "YAMUK", "ÇEMBER", "PRİZMA",
+    "ÇOKGEN", "PARALELKENAR", "DELTOİT", "OVAL", "YAY", "ÇİZGİ",
+    "HALKA", "ZİGZAG", "DÖRTGEN", "DOKUZGEN", "ONGEN", "SPİRAL",
+    "ARTI", "EKSİ", "HAÇ", "ÇAPRAZ", "YONCA", "BUMERANG",
+    "TETRAHEDRON", "LEKE", "DÜĞÜM", "ELMAS", "KALKAN", "ŞERİT",
+    "SÜTUN", "KAVİS", "HELEZON"
   ],
   "Tatlılar": [
-    "BAKLAVA", "KADAYIF", "SÜTLAÇ", "KAZANDİBİ", "REVANİ",
-    "ŞEKERPARE", "LOKMA", "HELVA", "PİŞMANİYE", "LOKUM",
-    "AKİDE", "CEZERYE", "MACUN", "PESTİL", "TULUMBA",
-    "AŞURE", "KEŞKÜL", "MUHALLEBİ", "PUDİNG"
+    "BAKLAVA", "KADAYIF", "SÜTLAÇ", "KAZANDİBİ", "REVANİ", "ŞEKERPARE",
+    "LOKMA", "HELVA", "PİŞMANİYE", "LOKUM", "AKİDE", "CEZERYE",
+    "MACUN", "PESTİL", "TULUMBA", "AŞURE", "KEŞKÜL", "MUHALLEBİ",
+    "PUDİNG", "TİRAMİSU", "SUFLE", "TRİLEÇE", "PROFİTEROL", "EKLER",
+    "TAVUKGÖĞSÜ", "KÜNEFE", "KALBURABASTI", "ŞÖBİYET", "DİLBERDUDAĞI", "HANIMGÖBEĞİ",
+    "VEZİRPARMAĞI", "KADINGÖBEĞİ", "BURMA", "SARIBURMA", "AYVATATLISI", "KABAKTATLISI",
+    "GÜLLAÇ", "ZERDE", "ŞEKERLEME", "KATMER", "BEZE", "HALKATATLISI",
+    "ŞAMBALİ"
   ],
   "Bilim": [
-    "FİZİK", "KİMYA", "BİYOLOJİ", "ASTRONOMİ", "JEOLOJİ",
-    "ATOM", "MOLEKÜL", "ELEKTRON", "PROTON", "NÖTRON",
-    "ENERJİ", "KUVVET", "HAREKET", "ISI", "IŞIK",
-    "SES", "ELEKTRİK", "MANYETİZMA", "YERÇEKİMİ", "BASINÇ"
+    "FİZİK", "KİMYA", "BİYOLOJİ", "ASTRONOMİ", "JEOLOJİ", "ATOM",
+    "MOLEKÜL", "ELEKTRON", "PROTON", "NÖTRON", "ENERJİ", "KUVVET",
+    "HAREKET", "ISI", "IŞIK", "SES", "ELEKTRİK", "MANYETİZMA",
+    "YERÇEKİMİ", "BASINÇ", "MADDE", "KÜTLE", "YOĞUNLUK", "HIZ",
+    "İVME", "SÜRTÜNME", "İŞ", "GÜÇ", "DALGA", "FREKANS",
+    "SPEKTRUM", "PRİZMA", "MERCEK", "AYNA", "KIRILMA", "YANSIMA",
+    "MIKNATIS", "DEVRE", "PİL", "AMPER", "VOLT", "OHM",
+    "İYON", "ELEMENT", "BİLEŞİK", "KARIŞIM", "ÇÖZELTİ", "ASİT",
+    "BAZ", "TUZ", "METAL", "GAZ", "SIVI", "KATI",
+    "BUHAR", "YOĞUŞMA", "ERİME", "DONMA", "KAYNAMA", "HÜCRE",
+    "DNA", "GEN", "ORGAN", "DOKU", "ENZİM", "PROTEİN",
+    "VİTAMİN", "MİKROP", "BAKTERİ", "VİRÜS", "MİKROSKOP", "DENEY",
+    "GÖZLEM", "HİPOTEZ", "TEORİ", "FORMÜL", "LABORATUVAR", "EVRİM",
+    "OKSİJEN", "KARBON", "AZOT", "DEMİR", "BAKIR"
   ],
   "Duyular": [
-    "GÖRME", "İŞİTME", "KOKLAMA", "TATMA", "DOKUNMA",
-    "ACIKMA", "SUSAMA", "YORGUNLUK", "UYKU", "AĞRI",
-    "KAŞINMA", "ÜŞÜME", "TERLEME"
+    "GÖRME", "İŞİTME", "KOKLAMA", "TATMA", "DOKUNMA", "ACIKMA",
+    "SUSAMA", "YORGUNLUK", "UYKU", "AĞRI", "KAŞINMA", "ÜŞÜME",
+    "TERLEME", "KOKU", "TAT", "DOKUNUŞ", "ALGI", "DUYU",
+    "DENGE", "DOYMA", "UYUŞMA", "SERSEMLİK", "HIÇKIRIK", "ESNEME",
+    "ÖKSÜRÜK", "AKSIRIK", "TİTREME", "ÇARPINTI", "GERİNME", "GÜLME",
+    "AĞLAMA", "NEFES", "ISINMA", "SOĞUMA", "KIZARMA", "YUTKUNMA",
+    "RAHATLAMA", "SARSINTI", "TATLI", "EKŞİ", "ACI", "TUZLU",
+    "UMAMİ", "SERT", "YUMUŞAK", "PÜRÜZLÜ", "PÜRÜZSÜZ", "PARLAK",
+    "GÜRÜLTÜ", "SESSİZLİK", "YANKI", "FISILTI", "AROMA", "LEZZET"
   ],
   "Müzik Türleri": [
-    "POP", "ROCK", "CAZ", "KLASİK", "ELEKTRONİK",
-    "RAP", "REGGAE", "BLUES", "FOLK", "METAL",
-    "OPERA", "ARABESK", "TÜRKÜ", "FASIL", "DİSKO", "FUNK"
+    "POP", "ROCK", "CAZ", "KLASİK", "ELEKTRONİK", "RAP",
+    "REGGAE", "BLUES", "FOLK", "METAL", "OPERA", "ARABESK",
+    "TÜRKÜ", "FASIL", "DİSKO", "FUNK", "HİPHOP", "TRAP",
+    "TECHNO", "HOUSE", "TRANCE", "DUBSTEP", "SOUL", "SKA",
+    "PUNK", "GRUNGE", "COUNTRY", "GOSPEL", "LATİN", "SALSA",
+    "TANGO", "FLAMENKO", "BOSSANOVA", "RUMBA", "SAMBA", "VALS",
+    "POLKA", "MARŞ", "İLAHİ", "ZEYBEK", "HORON", "HALAY",
+    "LOFİ", "AMBİYANS", "SENFONİ", "DANS", "CUMBIA", "MERENGUE",
+    "BACHATA", "DRILL", "EMO", "ALTERNATİF"
+  ],
+  "Coğrafya": [
+    "KITA", "OKYANUS", "DENİZ", "ASYA", "AVRUPA", "AFRİKA",
+    "AMERİKA", "ANTARKTİKA", "AVUSTRALYA", "EKVATOR", "KUTUP", "HARİTA",
+    "PUSULA", "ENLEM", "BOYLAM", "İKLİM", "NÜFUS", "BAŞKENT",
+    "SINIR", "ADA", "YARIMADA", "BOĞAZ", "KÖRFEZ", "GÖL",
+    "DAĞ", "PLATO", "OVA", "DELTA", "ŞELALE", "ÇÖL",
+    "TUNDRA", "SAVAN", "TAYGA", "STEP"
+  ],
+  "Madenler ve Taşlar": [
+    "ALTIN", "GÜMÜŞ", "BAKIR", "DEMİR", "ÇİNKO", "KURŞUN",
+    "ALÜMİNYUM", "KALAY", "NİKEL", "PLATİN", "TİTANYUM", "KROM",
+    "CIVA", "LİTYUM", "KÖMÜR", "PETROL", "MERMER", "GRANİT",
+    "KİREÇTAŞI", "KUMTAŞI", "BAZALT", "OBSİDYEN", "KUVARS", "ELMAS",
+    "ZÜMRÜT", "YAKUT", "SAFİR", "İNCİ", "OPAL", "TOPAZ",
+    "AMETİST", "FİRUZE", "AKİK", "ONİKS", "JADE", "LAPİS",
+    "KEHRİBAR", "MERCAN", "MANGAN", "BOR", "TUZ", "KİL"
+  ],
+  "Tarih": [
+    "OSMANLI", "SELÇUKLU", "BİZANS", "ROMA", "FERMAN", "SULTAN",
+    "PADİŞAH", "VEZİR", "SARAY", "KALE", "SAVAŞ", "ZAFER",
+    "BARIŞ", "ANTLAŞMA", "FETİH", "İMPARATORLUK", "CUMHURİYET", "ATATÜRK",
+    "İSTİKLAL", "KURTULUŞ", "ANIT", "ARKEOLOJİ", "KAZI", "HÖYÜK",
+    "MÜZE", "SİKKE", "MÜHÜR", "TUĞRA", "ŞEHZADE", "YENİÇERİ",
+    "DEVLET", "ÇAĞ", "MİLAT", "ORTAÇAĞ", "RÖNESANS", "REFORM",
+    "İNKILAP", "ANAYASA", "MECLİS", "BAYRAK", "MİSAK"
+  ],
+  "Sinema ve Tiyatro": [
+    "SİNEMA", "TİYATRO", "FİLM", "DİZİ", "SENARYO", "YÖNETMEN",
+    "OYUNCU", "REJİSÖR", "KAMERA", "KLAKET", "KURGU", "SAHNE",
+    "PERDE", "KOSTÜM", "DEKOR", "MAKYAJ", "SEYİRCİ", "BİLET",
+    "GİŞE", "KOLTUK", "KOMEDİ", "DRAMA", "TRAJEDİ", "MACERA",
+    "KORKU", "BELGESEL", "ANİMASYON", "FRAGMAN", "VİZYON", "FESTİVAL",
+    "ÖDÜL", "OSKAR", "ALKIŞ", "REPLİK", "MONOLOG", "DİYALOG",
+    "PROVA", "KULİS", "FİGÜRAN", "SENARİST", "PRODÜKTÖR", "ÇEKİM",
+    "MONTAJ"
+  ],
+  "Kutlamalar": [
+    "BAYRAM", "KURBAN", "RAMAZAN", "YILBAŞI", "NEVRUZ", "HIDRELLEZ",
+    "DÜĞÜN", "NİŞAN", "NİKAH", "SÜNNET", "KINA", "MEVLİT",
+    "HEDİYE", "PASTA", "BALON", "MUM", "KONFETİ", "KUTLAMA",
+    "ŞENLİK", "FESTİVAL", "KARNAVAL", "GELENEK", "ADET", "DİLEK",
+    "HAYIR", "İKRAM", "ZİYARET", "DAVET", "ÇELENK", "HAVAİFİŞEK",
+    "KARTPOSTAL", "TEBRİK", "BAYRAMLIK", "ŞEKER", "HARÇLIK", "BAYRAMLAŞMA",
+    "ANMA", "TÖREN", "KUTLU"
+  ],
+  "Sağlık": [
+    "SAĞLIK", "HASTALIK", "GRİP", "NEZLE", "ATEŞ", "ÖKSÜRÜK",
+    "ALERJİ", "ENFEKSİYON", "İLTİHAP", "DİYABET", "TANSİYON", "KOLESTEROL",
+    "OBEZİTE", "ANEMİ", "ASTIM", "MİGREN", "UYKUSUZLUK", "STRES",
+    "SPOR", "BESLENME", "DİYET", "VİTAMİN", "PROTEİN", "MİNERAL",
+    "SU", "UYKU", "HİJYEN", "TEMİZLİK", "DEZENFEKTAN", "MASKE",
+    "AŞI", "BAĞIŞIKLIK", "REFLEKS", "KONDİSYON", "FİTNESS", "MASAJ",
+    "TERAPİ", "NABIZ", "TEDAVİ", "İYİLEŞME", "ŞİFA", "REÇETE"
+  ],
+  "Edebiyat ve Dil": [
+    "ROMAN", "ŞİİR", "HİKAYE", "MASAL", "DESTAN", "FABL",
+    "TİYATRO", "ŞAİR", "YAZAR", "ROMANCI", "KALEM", "DİZE",
+    "KAFİYE", "NAZIM", "NESİR", "DENEME", "ANI", "MAKALE",
+    "SÖYLEŞİ", "ÖYKÜ", "FIKRA", "MANİ", "BİLMECE", "ATASÖZÜ",
+    "DEYİM", "TÜRKÜ", "MESNEVİ", "DİVAN", "KARAGÖZ", "HACİVAT",
+    "TEMSİL", "EDEBİYAT", "DİL", "SÖZCÜK", "CÜMLE", "PARAGRAF",
+    "NOKTALAMA", "VİRGÜL", "NOKTA", "ÜNLEM", "SORU", "GRAMER",
+    "SÖZLÜK", "KELİME", "HARF", "ALFABE"
+  ],
+  "Mimari ve Yapı": [
+    "CAMİ", "KÖPRÜ", "KULE", "KALE", "SARAY", "MİNARE",
+    "KUBBE", "SÜTUN", "KEMER", "HAN", "HAMAM", "KERVANSARAY",
+    "MEDRESE", "TÜRBE", "ÇEŞME", "BEDESTEN", "KÖŞK", "KONAK",
+    "YALI", "EV", "APARTMAN", "GÖKDELEN", "BARAJ", "LİMAN",
+    "FENER", "TÜNEL", "PİRAMİT", "KOLEZYUM", "AKROPOL", "TAPINAK",
+    "MİMARİ", "PLAN", "MAKET", "İNŞAAT", "TUĞLA", "ÇİMENTO",
+    "BETON", "KUM", "ÇELİK", "İSKELE", "VİNÇ", "TEMEL",
+    "KOLON", "KİRİŞ", "ÇATI"
   ]
 }
