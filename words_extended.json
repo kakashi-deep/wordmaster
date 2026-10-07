@@ -1,23 +1,23 @@
 {
-  "_meta": {"version": 3, "updatedAt": "2026-10-04", "note": "Kelime Ustası - ek kelime listesi."},
+  "_meta": {"version": 4, "updatedAt": "2026-10-07", "note": "Kelime Ustası - ek kelime listesi."},
   "Ülkeler": [
     "TÜRKİYE", "ALMANYA", "FRANSA", "İTALYA", "İSPANYA", "İNGİLTERE",
     "YUNANİSTAN", "PORTEKİZ", "HOLLANDA", "BELÇİKA", "İSVİÇRE", "AVUSTURYA",
     "POLONYA", "RUSYA", "ÇİN", "JAPONYA", "HİNDİSTAN", "BREZİLYA",
     "ARJANTİN", "MEKSİKA", "KANADA", "AVUSTRALYA", "MISIR", "FAS",
     "KENYA", "İRAN", "IRAK", "SURİYE", "ÜRDÜN", "LÜBNAN",
-    "KATAR", "KUVEYT", "UMMAN", "YEMEN", "AZERBAYCAN",
-    "GÜRCİSTAN", "ERMENİSTAN", "KAZAKİSTAN", "ÖZBEKİSTAN", "TÜRKMENİSTAN", "AFGANİSTAN",
-    "PAKİSTAN", "BANGLADEŞ", "NEPAL", "TAYLAND", "VİETNAM", "ENDONEZYA",
-    "MALEZYA", "SİNGAPUR", "FİLİPİNLER", "MOĞOLİSTAN", "LİBYA", "TUNUS",
-    "CEZAYİR", "NİJERYA", "GANA", "ETİYOPYA", "SOMALİ", "TANZANYA",
-    "UGANDA", "SENEGAL", "KAMERUN", "ANGOLA", "İSVEÇ", "NORVEÇ",
-    "FİNLANDİYA", "DANİMARKA", "İZLANDA", "İRLANDA", "MACARİSTAN", "ROMANYA",
-    "BULGARİSTAN", "SIRBİSTAN", "HIRVATİSTAN", "SLOVAKYA", "SLOVENYA", "ÇEKYA",
-    "UKRAYNA", "BEYAZRUSYA", "LİTVANYA", "LETONYA", "ESTONYA", "ARNAVUTLUK",
-    "MAKEDONYA", "KARADAĞ", "BOSNA", "KOSOVA", "MALTA", "KIBRIS",
-    "KÜBA", "ŞİLİ", "PERU", "KOLOMBİYA", "VENEZUELA", "EKVADOR",
-    "BOLİVYA", "PARAGUAY", "URUGUAY", "YENİZELANDA"
+    "KATAR", "KUVEYT", "UMMAN", "YEMEN", "AZERBAYCAN", "GÜRCİSTAN",
+    "ERMENİSTAN", "KAZAKİSTAN", "ÖZBEKİSTAN", "TÜRKMENİSTAN", "AFGANİSTAN", "PAKİSTAN",
+    "BANGLADEŞ", "NEPAL", "TAYLAND", "VİETNAM", "ENDONEZYA", "MALEZYA",
+    "SİNGAPUR", "FİLİPİNLER", "MOĞOLİSTAN", "LİBYA", "TUNUS", "CEZAYİR",
+    "NİJERYA", "GANA", "ETİYOPYA", "SOMALİ", "TANZANYA", "UGANDA",
+    "SENEGAL", "KAMERUN", "ANGOLA", "İSVEÇ", "NORVEÇ", "FİNLANDİYA",
+    "DANİMARKA", "İZLANDA", "İRLANDA", "MACARİSTAN", "ROMANYA", "BULGARİSTAN",
+    "SIRBİSTAN", "HIRVATİSTAN", "SLOVAKYA", "SLOVENYA", "ÇEKYA", "UKRAYNA",
+    "BEYAZRUSYA", "LİTVANYA", "LETONYA", "ESTONYA", "ARNAVUTLUK", "MAKEDONYA",
+    "KARADAĞ", "BOSNA", "KOSOVA", "MALTA", "KIBRIS", "KÜBA",
+    "ŞİLİ", "PERU", "KOLOMBİYA", "VENEZUELA", "EKVADOR", "BOLİVYA",
+    "PARAGUAY", "URUGUAY", "YENİZELANDA"
   ],
   "Uzay": [
     "GEZEGEN", "YILDIZ", "GÜNEŞ", "DÜNYA", "MARS", "JÜPİTER",
@@ -29,7 +29,7 @@
     "KUASAR", "KOZMONOT", "MEKİK", "FIRLATMA", "ROVER", "GÖZLEMEVİ",
     "ZENİT", "OZON", "KUŞAK", "HALE", "HELYUM", "HİDROJEN",
     "FÜZYON", "TİTAN", "EUROPA", "FOBOS", "DEİMOS", "CERES",
-    "HALLEY"
+    "HALLEY", "ASTROFİZİK", "KOZMOLOJİ"
   ],
   "Matematik": [
     "SAYI", "RAKAM", "TOPLAMA", "ÇIKARMA", "ÇARPMA", "BÖLME",
@@ -44,7 +44,8 @@
     "LİMİT", "DİZİ", "KOMBİNASYON", "PERMÜTASYON", "FAKTÖRİYEL", "KATSAYI",
     "DEĞİŞKEN", "BİLİNMEYEN", "ÇÖZÜM", "İSPAT", "TEOREM", "AKSİYOM",
     "ÖNERME", "MANTIK", "BİRLEŞİM", "KESİŞİM", "EBOB", "EKOK",
-    "ÇARPAN", "BÖLEN", "KATI", "TEK", "Pİ", "HİPOTENÜS"
+    "ÇARPAN", "BÖLEN", "KATI", "TEK", "Pİ", "HİPOTENÜS",
+    "SİMETRİ", "ÖTELEME"
   ],
   "Şekiller": [
     "KARE", "DAİRE", "ÜÇGEN", "DİKDÖRTGEN", "BEŞGEN", "ALTIGEN",
@@ -111,7 +112,11 @@
     "PUSULA", "ENLEM", "BOYLAM", "İKLİM", "NÜFUS", "BAŞKENT",
     "SINIR", "ADA", "YARIMADA", "BOĞAZ", "KÖRFEZ", "GÖL",
     "DAĞ", "PLATO", "OVA", "DELTA", "ŞELALE", "ÇÖL",
-    "TUNDRA", "SAVAN", "TAYGA", "STEP"
+    "TUNDRA", "SAVAN", "TAYGA", "STEP", "KIYI", "SAHİL",
+    "ADACIK", "VADİ", "KANYON", "MAĞARA", "YANARDAĞ", "DEPREM",
+    "FAY", "KAYA", "TOPRAK", "ÖLÇEK", "RAKIM", "KONTUR",
+    "TEPE", "YAYLA", "BOZKIR", "KUMUL", "VAHA", "BUZUL",
+    "GAYZER", "NEHİR", "IRMAK", "DERE", "GÖLET", "LAGÜN"
   ],
   "Madenler ve Taşlar": [
     "ALTIN", "GÜMÜŞ", "BAKIR", "DEMİR", "ÇİNKO", "KURŞUN",
@@ -178,5 +183,133 @@
     "MİMARİ", "PLAN", "MAKET", "İNŞAAT", "TUĞLA", "ÇİMENTO",
     "BETON", "KUM", "ÇELİK", "İSKELE", "VİNÇ", "TEMEL",
     "KOLON", "KİRİŞ", "ÇATI"
+  ],
+  "Müzik Aletleri": [
+    "GİTAR", "KEMAN", "PİYANO", "DAVUL", "FLÜT", "KLARNET",
+    "TROMPET", "SAKSOFON", "ÇELLO", "KONTRBAS", "ARP", "ORGAN",
+    "AKORDEON", "MANDOLİN", "BAĞLAMA", "SAZ", "UD", "KANUN",
+    "NEY", "KEMENÇE", "ZURNA", "DARBUKA", "DEF", "BENDİR",
+    "KUDÜM", "CÜMBÜŞ", "TANBUR", "KLAVYE", "ZİL", "TRİYANGEL",
+    "MARİMBA", "KSİLOFON", "OBUA", "FAGOT", "TROMBON", "TUBA",
+    "HARMONİKA", "MIZIKA", "KAVAL", "SIPSI", "TULUM", "KOPUZ",
+    "TAMBURİN", "MARAKAS", "GONG", "VİYOLA", "BANJO", "UKULELE",
+    "SİNTİZER"
+  ],
+  "Mitoloji": [
+    "ZEUS", "HERA", "ATHENA", "APOLLON", "ARES", "HERMES",
+    "POSEIDON", "HADES", "AFRODİT", "ARTEMİS", "DİONYSOS", "HEFAİSTOS",
+    "HERKÜL", "ODİSSEUS", "AKHİLLES", "PERSEUS", "TEZEUS", "ORFEUS",
+    "PANDORA", "MEDUSA", "MİNOTOR", "SFENKS", "GRİFON", "ANKA",
+    "EJDERHA", "PERİ", "CİN", "DEV", "CÜCE", "ELF",
+    "TROLL", "HİDRA", "KİMERA", "SİREN", "KENTAUR", "PEGASUS",
+    "ODİN", "THOR", "OLYMPOS", "TARTAROS", "KRONOS", "İKARUS",
+    "NARSİS", "EROS", "PSİKE", "HELİOS", "DEMETER"
+  ],
+  "Hukuk ve Adalet": [
+    "HUKUK", "ADALET", "YASA", "KANUN", "MAHKEME", "YARGIÇ",
+    "HAKİM", "SAVCI", "AVUKAT", "DAVA", "DAVACI", "DAVALI",
+    "SANIK", "TANIK", "İDDİANAME", "KARAR", "HÜKÜM", "CEZA",
+    "TAZMİNAT", "MÜVEKKİL", "VEKALET", "NOTER", "SÖZLEŞME", "TAPU",
+    "MİRAS", "VASİYET", "İTİRAZ", "TEMYİZ", "BERAAT", "TUTUKLAMA",
+    "KEFALET", "HAK", "ÖZGÜRLÜK", "ADLİYE", "DELİL", "İFADE",
+    "YEMİN", "DURUŞMA", "BİLİRKİŞİ", "ZAMANAŞIMI", "İCRA", "HAPİS",
+    "ARABULUCU", "YASAK", "SUÇ", "MAĞDUR"
+  ],
+  "Felsefe ve Psikoloji": [
+    "FELSEFE", "MANTIK", "AHLAK", "ESTETİK", "VARLIK", "BİLGİ",
+    "HAKİKAT", "ERDEM", "AKIL", "SEZGİ", "DÜŞÜNCE", "BİLİNÇ",
+    "BİLİNÇALTI", "BELLEK", "HAFIZA", "DİKKAT", "ALGI", "ÖĞRENME",
+    "MOTİVASYON", "KİŞİLİK", "DAVRANIŞ", "GÜDÜ", "RÜYA", "KAYGI",
+    "KORKU", "DEPRESYON", "TERAPİ", "EGO", "İDRAK", "ŞÜPHE",
+    "İNANÇ", "VİCDAN", "İRADE", "KADER", "SOKRATES", "PLATON",
+    "ARİSTO", "FARABİ"
+  ],
+  "Havacılık": [
+    "UÇAK", "HELİKOPTER", "PİLOT", "HAVALİMANI", "PİST", "KANAT",
+    "PERVANE", "MOTOR", "KABİN", "KOKPİT", "YOLCU", "BAGAJ",
+    "PASAPORT", "KALKIŞ", "İNİŞ", "RÖTAR", "SEFER", "TERMİNAL",
+    "HOSTES", "İRTİFA", "RADAR", "KULE", "PARAŞÜT", "BALON",
+    "ZEPLİN", "GLAYDER", "DRON", "JET", "HANGAR", "KARGO",
+    "TRANSİT", "GÜMRÜK", "VİZE", "EMNİYET", "KEMER", "TÜRBÜLANS",
+    "SİS"
+  ],
+  "Denizcilik": [
+    "GEMİ", "TEKNE", "YELKEN", "KÜREK", "DÜMEN", "DEMİR",
+    "PALAMAR", "LİMAN", "İSKELE", "RIHTIM", "FENER", "KAPTAN",
+    "DENİZCİ", "MÜRETTEBAT", "TAYFA", "KAMARA", "GÜVERTE", "KIÇ",
+    "SANCAK", "DALGA", "FIRTINA", "RÜZGAR", "PUSULA", "HARİTA",
+    "SİNYAL", "MORS", "ŞAMANDIRA", "TERSANE", "FERİBOT", "VAPUR",
+    "ŞİLEP", "TANKER", "YAT", "KANO", "SANDAL", "DENİZALTI",
+    "KAYIK", "YELKENLİ", "PERİSKOP"
+  ],
+  "Dağlar ve Nehirler": [
+    "ERCİYES", "ULUDAĞ", "AĞRI", "KAÇKAR", "TOROS", "MUNZUR",
+    "SÜPHAN", "NEMRUT", "KIZILIRMAK", "YEŞİLIRMAK", "SAKARYA", "FIRAT",
+    "DİCLE", "ARAS", "MENDERES", "CEYHAN", "SEYHAN", "GEDİZ",
+    "ÇORUH", "MERİÇ", "TUNA", "NİL", "AMAZON", "VOLGA",
+    "ALPLER", "HİMALAYA", "EVEREST", "KİLİMANJARO", "ANDLAR", "KAFKASYA",
+    "URAL", "FUJİ", "ETNA", "VEZÜV", "TUZGÖLÜ"
+  ],
+  "Ağaçlar ve Çiçekler": [
+    "LALE", "GÜL", "MENEKŞE", "PAPATYA", "ZAMBAK", "NERGİS",
+    "SÜMBÜL", "ORKİDE", "AYÇİÇEĞİ", "KASIMPATI", "ÇİĞDEM", "GELİNCİK",
+    "BEGONYA", "MARGARİT", "LAVANTA", "YASEMİN", "NİLÜFER", "ORTANCA",
+    "KAMELYA", "PETUNYA", "MANOLYA", "HANIMELİ", "ÇINAR", "MEŞE",
+    "KAYIN", "ÇAM", "LADİN", "SERVİ", "ARDIÇ", "KARAĞAÇ",
+    "SÖĞÜT", "KAVAK", "ZEYTİN", "CEVİZ", "FINDIK", "BADEM",
+    "İNCİR", "DUT", "ERİK", "AKASYA", "PALMİYE", "BAMBU",
+    "KAKTÜS", "SEDİR"
+  ],
+  "Tarih Öncesi": [
+    "DİNOZOR", "FOSİL", "MAMUT", "MAĞARA", "İLKEL", "AVCI",
+    "TOPLAYICI", "ÇAKMAKTAŞI", "KEMİK", "İSKELET", "BUZUL", "TİRANOZOR",
+    "STEGOZOR", "ANKİLOZOR", "DİPLODOKUS", "PTERANODON", "TRİSERATOPS", "İKTİYOZOR",
+    "EVRİM", "ATA", "NEANDERTAL", "KROMANYON", "ÇAKMAK", "YONTMA",
+    "KALINTI", "KATMAN", "AMMONİT", "TRİLOBİT", "MASTODON", "LAVA",
+    "VOLKAN", "YOKOLUŞ", "TÜR"
+  ],
+  "Zeka Oyunları": [
+    "SATRANÇ", "ŞAH", "VEZİR", "KALE", "FİL", "AT",
+    "PİYON", "MAT", "ROK", "HAMLE", "TAHTA", "BULMACA",
+    "PUZZLE", "SUDOKU", "BİLMECE", "TANGRAM", "DOMİNO", "OKEY",
+    "TAVLA", "DAMA", "MANGALA", "İSKAMBİL", "BRİÇ", "ZAR",
+    "TAŞ", "LABİRENT", "ŞİFRE", "İPUCU", "STRATEJİ", "TAKTİK",
+    "RAKİP", "GALİBİYET", "BERABERE", "PAT", "ROKAD", "AÇILIŞ",
+    "ZEKA", "AKIL", "KAZANAN", "PUAN", "TURNUVA", "SIRA"
+  ],
+  "Sanat ve Resim": [
+    "RESİM", "TABLO", "BOYA", "FIRÇA", "PALET", "ŞEVALE",
+    "TUVAL", "SULUBOYA", "YAĞLIBOYA", "KURŞUNKALEM", "PASTEL", "KARAKALEM",
+    "MÜREKKEP", "EBRU", "MİNYATÜR", "HAT", "TEZHİP", "HEYKEL",
+    "SERAMİK", "ÇİNİ", "MOZAİK", "VİTRAY", "FRESK", "KOLAJ",
+    "KARİKATÜR", "PORTRE", "MANZARA", "NATÜRMORT", "ESKİZ", "TASLAK",
+    "GALERİ", "SERGİ", "KÜRATÖR", "RESSAM", "HEYKELTRAŞ", "SANATÇI",
+    "ATÖLYE", "BASKI", "GRAFİTİ", "KUBİZM", "SÜRREALİZM", "MODEL",
+    "KOMPOZİSYON", "PERSPEKTİF", "TON", "DESEN"
+  ],
+  "Başkentler": [
+    "ANKARA", "BERLİN", "PARİS", "ROMA", "MADRİD", "LONDRA",
+    "ATİNA", "LİZBON", "BRÜKSEL", "BERN", "VİYANA", "VARŞOVA",
+    "MOSKOVA", "PEKİN", "TOKYO", "KAHİRE", "RABAT", "TUNUS",
+    "TRABLUS", "BAĞDAT", "ŞAM", "AMMAN", "BEYRUT", "RİYAD",
+    "DOHA", "TAHRAN", "KABİL", "İSLAMABAD", "DAKKA", "KATMANDU",
+    "BANGKOK", "HANOİ", "CAKARTA", "MANİLA", "SEUL", "KANBERRA",
+    "OTTAVA", "HAVANA", "LİMA", "BOGOTA", "KARAKAS", "KİTO",
+    "SANTİYAGO", "MONTEVİDEO", "BAKÜ", "TİFLİS", "EREVAN", "TAŞKENT",
+    "BİŞKEK", "DUŞANBE", "AŞKABAT", "ASTANA", "KİEV", "MİNSK",
+    "VİLNİUS", "RİGA", "TALLİN", "HELSİNKİ", "STOKHOLM", "OSLO",
+    "KOPENHAG", "REYKJAVİK", "DUBLİN", "BUDAPEŞTE", "BÜKREŞ", "SOFYA",
+    "BELGRAD", "ZAGREB", "BRATİSLAVA", "PRAG", "TİRAN", "ÜSKÜP",
+    "PODGORİCA", "SARAYBOSNA", "PRİŞTİNE", "VALLETTA", "LEFKOŞA", "NAYROBİ",
+    "AKRA", "MOGADİŞU", "KAMPALA"
+  ],
+  "Medya ve Haberleşme": [
+    "GAZETE", "DERGİ", "HABER", "MANŞET", "MUHABİR", "GAZETECİ",
+    "EDİTÖR", "RADYO", "TELEVİZYON", "KANAL", "YAYIN", "PROGRAM",
+    "SPİKER", "SUNUCU", "REKLAM", "AFİŞ", "BROŞÜR", "İLAN",
+    "BASIN", "RÖPORTAJ", "MİKROFON", "STÜDYO", "TELEFON", "MEKTUP",
+    "POSTA", "ZARF", "PUL", "KARTPOSTAL", "TELGRAF", "FAKS",
+    "MESAJ", "ARAMA", "PODCAST", "ABONE", "TİRAJ", "ARŞİV",
+    "KÖŞE", "SANSÜR", "ANTEN"
   ]
 }

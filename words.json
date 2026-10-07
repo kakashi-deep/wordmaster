@@ -1,5 +1,5 @@
 {
-  "_meta": {"version": 3, "updatedAt": "2026-10-04", "note": "Kelime Ustası - uzak kelime listesi. Yeni versiyon eklerken version'ı artırın."},
+  "_meta": {"version": 4, "updatedAt": "2026-10-07", "note": "Kelime Ustası - uzak kelime listesi. Yeni versiyon eklerken version'ı artırın."},
   "Hayvanlar": [
     "KEDİ", "KÖPEK", "KUŞ", "BALIK", "ASLAN", "KAPLAN",
     "FİL", "ZÜRAFA", "MAYMUN", "AYI", "KURT", "TİLKİ",
@@ -15,7 +15,10 @@
     "KERTENKELE", "SOLUCAN", "SALYANGOZ", "AHTAPOT", "KARİDES", "YENGEÇ",
     "MİDYE", "DENİZANASI", "KÖSTEBEK", "FARE", "HAMSTER", "PAPAĞAN",
     "LEYLEK", "MARTI", "KARGA", "ATMACA", "ŞAHİN", "TAVUSKUŞU",
-    "FLAMİNGO", "DEVEKUŞU", "KUĞU"
+    "FLAMİNGO", "DEVEKUŞU", "KUĞU", "LEMUR", "ÇİTA", "JAGUAR",
+    "PUMA", "VAŞAK", "ANTİLOP", "İMPALA", "BİZON", "YAK",
+    "LAMA", "ALPAKA", "TAPİR", "ARMADİLLO", "MUFLON", "PORSUK",
+    "PANGOLİN", "OKAPİ", "SURİKAT"
   ],
   "Meyveler": [
     "ELMA", "ARMUT", "MUZ", "ÇİLEK", "KİRAZ", "ÜZÜM",
@@ -25,7 +28,7 @@
     "MANDALİNA", "BÖĞÜRTLEN", "AHUDUDU", "ÇAĞLA", "NEKTARİN", "FINDIK",
     "FISTIK", "CEVİZ", "BADEM", "KESTANE", "FRAMBUAZ", "PAPAYA",
     "LİÇİ", "KAKİ", "KUŞBURNU", "YABANMERSİNİ", "KIZILCIK", "ALIÇ",
-    "MUŞMULA", "BERGAMOT", "KARAYEMİŞ", "KUŞÜZÜMÜ"
+    "MUŞMULA", "BERGAMOT", "KARAYEMİŞ", "KUŞÜZÜMÜ", "GUAVA"
   ],
   "Sebzeler": [
     "DOMATES", "SALATALIK", "PATATES", "SOĞAN", "SARIMSAK", "HAVUÇ",
@@ -336,7 +339,7 @@
     "KARINCA", "ARI", "SİNEK", "KELEBEK", "ÇEKİRGE", "BÖCEK",
     "UĞURBÖCEĞİ", "SİVRİSİNEK", "HAMAMBÖCEĞİ", "PİRE", "BİT", "KENE",
     "AKREP", "ÖRÜMCEK", "SÜLÜK", "KARAKURT", "KIRKAYAK", "YUSUFÇUK",
-    "GÜVE", "TIRTIL", "KOZA", "TERMİT", "CIRCIRBÖCEĞİ"
+    "GÜVE", "TIRTIL", "KOZA", "TERMİT", "CIRCIRBÖCEĞİ", "ATEŞBÖCEĞİ"
   ],
   "Tatil": [
     "PLAJ", "DENİZ", "KUM", "GÜNEŞ", "MAYO", "BİKİNİ",
@@ -363,5 +366,110 @@
     "SARAY", "KONAK", "APARTMAN", "GÖKDELEN", "BİNA", "HASTANE",
     "KARAKOL", "ADLİYE", "STADYUM", "LİMAN", "HAVALİMANI", "OTOPARK",
     "BENZİNLİK"
+  ],
+  "Alet ve Malzemeler": [
+    "ÇEKİÇ", "TESTERE", "MATKAP", "PENSE", "ANAHTAR", "VİDA",
+    "CİVATA", "SOMUN", "ÇİVİ", "BALYOZ", "KÜREK", "KAZMA",
+    "ÇAPA", "TIRPAN", "BALTA", "RENDE", "ZIMPARA", "FIRÇA",
+    "MERDİVEN", "METRE", "TORNAVİDA", "EĞE", "İĞNE", "MAKAS",
+    "BIÇAK", "LEHİM", "YAPIŞTIRICI", "BANT", "İP", "HALAT",
+    "ZİNCİR", "KİLİT", "MENTEŞE", "KOVA", "ŞAKÜL", "TERAZİ",
+    "FENER", "PİL", "KELEPÇE"
+  ],
+  "Baharat ve Otlar": [
+    "KIMYON", "KEKİK", "NANE", "TARÇIN", "KARANFİL", "ZENCEFİL",
+    "ZERDEÇAL", "KİŞNİŞ", "DEFNE", "ADAÇAYI", "FESLEĞEN", "MAYDANOZ",
+    "DEREOTU", "ROKA", "SUMAK", "SAFRAN", "VANİLYA", "HARDAL",
+    "KÖRİ", "KAPARİ", "ÇÖREKOTU", "ANASON", "KARABİBER", "KARDAMOM",
+    "MUSKAT", "İSOT", "PULBİBER", "BİBERİYE", "TERE", "MERZENCOŞ",
+    "ISIRGAN"
+  ],
+  "Mobilya": [
+    "KOLTUK", "SANDALYE", "MASA", "YATAK", "DOLAP", "KOMODİN",
+    "RAF", "KİTAPLIK", "SEHPA", "PUF", "TABURE", "GARDIROP",
+    "ŞİFONYER", "BAZA", "KANEPE", "DİVAN", "SEDİR", "BEŞİK",
+    "SANDIK", "PORTMANTO", "AYNA", "PERDE", "HALI", "KİLİM",
+    "YASTIK", "YORGAN", "BATTANİYE", "ÇARŞAF", "NEVRESİM", "MİNDER",
+    "TÜL", "LAMBA", "ABAJUR", "AVİZE", "VİTRİN", "SEPET"
+  ],
+  "Takı ve Aksesuar": [
+    "YÜZÜK", "KOLYE", "BİLEZİK", "KÜPE", "ALYANS", "BROŞ",
+    "SAAT", "GÖZLÜK", "ŞAPKA", "ŞAL", "EŞARP", "ATKI",
+    "KRAVAT", "PAPYON", "KEMER", "ELDİVEN", "ÇANTA", "CÜZDAN",
+    "TOKA", "TARAK", "BANDANA", "BERE", "ANAHTARLIK", "TESPİH",
+    "ZİNCİR", "TAÇ", "ŞEMSİYE", "KUŞAK", "GERDANLIK", "HALHAL",
+    "PIRLANTA"
+  ],
+  "Kahvaltı": [
+    "PEYNİR", "ZEYTİN", "REÇEL", "BAL", "KAYMAK", "TEREYAĞI",
+    "YUMURTA", "MENEMEN", "SUCUK", "SALAM", "SİMİT", "POĞAÇA",
+    "BÖREK", "ÇAY", "DOMATES", "SALATALIK", "TAHİN", "PEKMEZ",
+    "HELVA", "OMLET", "YULAF", "MÜSLİ", "SÜT", "TOST",
+    "EKMEK", "KURABİYE", "KRUVASAN", "ÇÖREK", "KAHVE", "YOĞURT",
+    "KAŞAR", "ÇEÇİL", "TULUM", "LOR", "KUYMAK", "MIHLAMA",
+    "PANKEK", "GEVREK"
+  ],
+  "Bilgisayar ve İnternet": [
+    "KLAVYE", "FARE", "EKRAN", "YAZICI", "TARAYICI", "MODEM",
+    "SUNUCU", "YAZILIM", "DONANIM", "PROGRAM", "UYGULAMA", "DOSYA",
+    "KLASÖR", "ŞİFRE", "İNDİRME", "YÜKLEME", "BAĞLANTI", "SİTE",
+    "BELLEK", "İŞLEMCİ", "DİSK", "FLAŞ", "KABLO", "AĞ",
+    "BLOG", "FORUM", "ARAMA", "KULLANICI", "PROFİL", "HESAP",
+    "BULUT", "VERİ", "ALGORİTMA", "KOD", "HATA", "GÜNCELLEME",
+    "YEDEK", "SİMGE", "MENÜ", "PENCERE", "SEKME", "İMLEÇ"
+  ],
+  "Banka ve Para": [
+    "PARA", "BANKA", "KART", "HESAP", "FAİZ", "KREDİ",
+    "BORÇ", "ALACAK", "MAAŞ", "ÜCRET", "VERGİ", "FATURA",
+    "MAKBUZ", "FİŞ", "ÇEK", "SENET", "DÖVİZ", "BORSA",
+    "HİSSE", "TASARRUF", "YATIRIM", "BÜTÇE", "GELİR", "GİDER",
+    "KASA", "BOZUKLUK", "KURUŞ", "LİRA", "DOLAR", "EURO",
+    "STERLİN", "İNDİRİM", "KAMPANYA", "TAKSİT", "PEŞİNAT", "SİGORTA",
+    "EMEKLİLİK", "ŞUBE", "ENFLASYON", "ZAM"
+  ],
+  "Çiftlik": [
+    "ÇİFTLİK", "AMBAR", "AHIR", "AĞIL", "KÜMES", "SAMANLIK",
+    "TARLA", "BAĞ", "TRAKTÖR", "ÇİFTÇİ", "ÇOBAN", "İNEK",
+    "BOĞA", "DANA", "KOYUN", "KUZU", "KEÇİ", "OĞLAK",
+    "HOROZ", "TAVUK", "CİVCİV", "ÖRDEK", "KAZ", "HİNDİ",
+    "AT", "KATIR", "EŞEK", "SÜRÜ", "SAMAN", "YEM",
+    "KOVAN", "TOHUM", "HASAT", "ORAK", "SABAN", "ÖKÜZ",
+    "SULAMA", "GÜBRE", "BUĞDAY", "ARPA", "ÇAVDAR"
+  ],
+  "Orman": [
+    "AĞAÇ", "ÇAM", "MEŞE", "KAYIN", "ÇINAR", "SERVİ",
+    "ARDIÇ", "LADİN", "KARAĞAÇ", "SÖĞÜT", "KAVAK", "PALAMUT",
+    "KOZALAK", "YOSUN", "MANTAR", "ÇALI", "DAL", "YAPRAK",
+    "GÖVDE", "KABUK", "ODUN", "KÜTÜK", "PATİKA", "KULÜBE",
+    "ORMANCI", "YANGIN", "GÖLGE", "GEYİK", "AYI", "KURT",
+    "TİLKİ", "DOMUZ", "SİNCAP", "KARTAL", "BAYKUŞ", "TAVŞAN",
+    "ÇAKAL", "KUNDUZ"
+  ],
+  "Hobiler": [
+    "RESİM", "FOTOĞRAF", "BALIKÇILIK", "YÜRÜYÜŞ", "KAMP", "BİSİKLET",
+    "YÜZME", "DANS", "ÖRGÜ", "DİKİŞ", "NAKIŞ", "SERAMİK",
+    "HEYKEL", "BAHÇIVANLIK", "YEMEK", "OKUMA", "YAZMA", "KOLEKSİYON",
+    "SATRANÇ", "BULMACA", "PUZZLE", "ORİGAMİ", "SÖRF", "DALIŞ",
+    "TIRMANIŞ", "OKÇULUK", "GİTAR", "ŞARKI", "KOŞU", "TASARIM",
+    "GEZİ", "SEYAHAT", "MAKRAME", "TEZHİP", "EBRU", "MİNYATÜR"
+  ],
+  "Karakter ve Sıfatlar": [
+    "CESUR", "KORKAK", "CÖMERT", "CİMRİ", "DÜRÜST", "YALANCI",
+    "NEŞELİ", "ÜZGÜN", "SABIRLI", "SAKİN", "HIRSLI", "ÇALIŞKAN",
+    "TEMBEL", "AKILLI", "ZEKİ", "NAZİK", "KABA", "SAYGILI",
+    "UTANGAÇ", "MERAKLI", "BENCİL", "FEDAKAR", "İYİMSER", "KÖTÜMSER",
+    "SADIK", "İNATÇI", "TİTİZ", "DİKKATLİ", "DALGIN", "ATILGAN",
+    "GÜVENİLİR", "ŞAKACI", "SESSİZ", "KONUŞKAN", "MERHAMETLİ", "VEFALI",
+    "MÜTEVAZİ", "ÖZENLİ"
+  ],
+  "Günlük Eylemler": [
+    "KOŞMAK", "YÜRÜMEK", "ATLAMAK", "YÜZMEK", "OKUMAK", "YAZMAK",
+    "ÇİZMEK", "SÖYLEMEK", "DİNLEMEK", "İZLEMEK", "BAKMAK", "GÜLMEK",
+    "AĞLAMAK", "UYUMAK", "UYANMAK", "YEMEK", "İÇMEK", "PİŞİRMEK",
+    "YIKAMAK", "TEMİZLEMEK", "ALMAK", "VERMEK", "GÖNDERMEK", "GELMEK",
+    "GİTMEK", "OTURMAK", "KALKMAK", "DÜŞÜNMEK", "ÖĞRENMEK", "ÖĞRETMEK",
+    "OYNAMAK", "ÇALIŞMAK", "DİNLENMEK", "SEVMEK", "SARILMAK", "BEKLEMEK",
+    "BULMAK", "SAKLAMAK", "AÇMAK", "KAPATMAK", "YAPMAK", "BİNMEK",
+    "İNMEK"
   ]
 }
