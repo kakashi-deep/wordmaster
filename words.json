@@ -1,5 +1,5 @@
 {
-  "_meta": {"version": 4, "updatedAt": "2026-10-07", "note": "Kelime Ustası - uzak kelime listesi. Yeni versiyon eklerken version'ı artırın."},
+  "_meta": {"version": 7, "updatedAt": "2026-10-14", "note": "Kelime Ustası - uzak kelime listesi. Yeni versiyon eklerken version'ı artırın."},
   "Hayvanlar": [
     "KEDİ", "KÖPEK", "KUŞ", "BALIK", "ASLAN", "KAPLAN",
     "FİL", "ZÜRAFA", "MAYMUN", "AYI", "KURT", "TİLKİ",
@@ -9,7 +9,7 @@
     "ÖRDEK", "KAZ", "HİNDİ", "GÜVERCİN", "SERÇE", "AKREP",
     "ÖRÜMCEK", "KARINCA", "ARI", "SİNEK", "KELEBEK", "ÇEKİRGE",
     "LEOPAR", "ÇITA", "PANDA", "KOALA", "KANGURU", "GORİL",
-    "ŞAMPANZE", "SİNCAP", "KUNDUZ", "SAMUR", "GELİNCİK", "KARACA",
+    "ŞEMPANZE", "SİNCAP", "KUNDUZ", "SAMUR", "GELİNCİK", "KARACA",
     "GEYİK", "AT", "EŞEK", "ÖKÜZ", "MANDA", "BOĞA",
     "DOMUZ", "KİRPİ", "YARASA", "KURBAĞA", "KAPLUMBAĞA", "TIMSAH",
     "KERTENKELE", "SOLUCAN", "SALYANGOZ", "AHTAPOT", "KARİDES", "YENGEÇ",
@@ -18,7 +18,10 @@
     "FLAMİNGO", "DEVEKUŞU", "KUĞU", "LEMUR", "ÇİTA", "JAGUAR",
     "PUMA", "VAŞAK", "ANTİLOP", "İMPALA", "BİZON", "YAK",
     "LAMA", "ALPAKA", "TAPİR", "ARMADİLLO", "MUFLON", "PORSUK",
-    "PANGOLİN", "OKAPİ", "SURİKAT"
+    "PANGOLİN", "OKAPİ", "SURİKAT", "BABUN", "MANDRİL", "HİYENA",
+    "SIRTLAN", "ÇAKAL", "MORS", "FOK", "RAKUN", "VOMBAT",
+    "ŞİNŞİLA", "GERBİL", "KUTUPAYISI", "MUHABBETKUŞU", "KANARYA", "BÜLBÜL",
+    "TURNA", "PELİKAN", "İBİS"
   ],
   "Meyveler": [
     "ELMA", "ARMUT", "MUZ", "ÇİLEK", "KİRAZ", "ÜZÜM",
@@ -28,7 +31,7 @@
     "MANDALİNA", "BÖĞÜRTLEN", "AHUDUDU", "ÇAĞLA", "NEKTARİN", "FINDIK",
     "FISTIK", "CEVİZ", "BADEM", "KESTANE", "FRAMBUAZ", "PAPAYA",
     "LİÇİ", "KAKİ", "KUŞBURNU", "YABANMERSİNİ", "KIZILCIK", "ALIÇ",
-    "MUŞMULA", "BERGAMOT", "KARAYEMİŞ", "KUŞÜZÜMÜ", "GUAVA"
+    "MUŞMULA", "BERGAMOT", "KARAYEMİŞ", "KUŞÜZÜMÜ", "GUAVA", "DRAGONFRUIT"
   ],
   "Sebzeler": [
     "DOMATES", "SALATALIK", "PATATES", "SOĞAN", "SARIMSAK", "HAVUÇ",
@@ -38,7 +41,8 @@
     "MARUL", "ROKA", "TERE", "SEMİZOTU", "KEREVİZ", "PAZI",
     "KARALAHANA", "PANCAR", "MANTAR", "DEREOTU", "NANE", "FESLEĞEN",
     "BARBUNYA", "BAKLA", "ISIRGAN", "YERELMASI", "KORNİŞON", "KIVIRCIK",
-    "RADİKA", "BİBERİYE"
+    "RADİKA", "BİBERİYE", "MISIR", "TATLIPATATES", "KABAKÇİÇEĞİ", "ŞEKERPANCARI",
+    "HİNDİBA", "MUCVER", "KİŞNİŞ"
   ],
   "Renkler": [
     "KIRMIZI", "MAVİ", "YEŞİL", "SARI", "TURUNCU", "MOR",
@@ -46,7 +50,9 @@
     "TURKUAZ", "ALTIN", "GÜMÜŞ", "BEJ", "KAHVERENGİ", "EFLATUN",
     "KREM", "LİLA", "HAKİ", "FÜME", "ZÜMRÜT", "MERCAN",
     "KORAL", "ŞAFRAN", "İNDİGO", "FUŞYA", "CAMGÖBEĞİ", "KİREMİT",
-    "ANTRASİT", "KARAMEL", "HARDAL", "LAVANTA", "MAGENTA", "ZEYTİNYEŞİLİ"
+    "ANTRASİT", "KARAMEL", "HARDAL", "LAVANTA", "MAGENTA", "ZEYTİNYEŞİLİ",
+    "GÜLKURUSU", "KÜL", "KOBALT", "GÖKMAVİSİ", "KARDELEN", "DENİZMAVİSİ",
+    "KESTANE"
   ],
   "Meslekler": [
     "DOKTOR", "ÖĞRETMEN", "MÜHENDİS", "AVUKAT", "HEMŞİRE", "POLİS",
@@ -92,10 +98,10 @@
   ],
   "İçecekler": [
     "SU", "ÇAY", "KAHVE", "SÜT", "AYRAN", "LİMONATA",
-    "GAZOZ", "KOLA", "SODA", "ŞALGAM", "BOZA", "SALEP",
-    "IHLAMUR", "KEFİR", "ADAÇAYI", "ŞERBET", "KOMPOSTO", "HOŞAF",
-    "ŞIRA", "KAKAO", "LATTE", "ESPRESSO", "KAPUÇİNO", "MOCHA",
-    "SMOOTHIE", "MEYVESUYU", "MADENSUYU", "PORTAKALSUYU"
+    "GAZOZ", "KOLA", "SODA", "ŞALGAM", "SALEP", "IHLAMUR",
+    "KEFİR", "ADAÇAYI", "ŞERBET", "KOMPOSTO", "HOŞAF", "ŞIRA",
+    "KAKAO", "LATTE", "ESPRESSO", "KAPUÇİNO", "MOCHA", "SMOOTHIE",
+    "MEYVESUYU", "MADENSUYU", "PORTAKALSUYU"
   ],
   "Doğa": [
     "DAĞ", "TEPE", "OVA", "VADİ", "ORMAN", "AĞAÇ",
@@ -151,7 +157,9 @@
     "FORMA", "GOL", "PENALTI", "KORNER", "OFSAYT", "FAUL",
     "SMAÇ", "BASKET", "SAHA", "PİST", "RAKET", "TOP",
     "FİLE", "KUPA", "LİG", "MAÇ", "TAKIM", "KULÜP",
-    "TRİBÜN", "SPORCU"
+    "TRİBÜN", "SPORCU", "ALPİNİZM", "PARAŞÜTÇÜLÜK", "SNOWBOARD", "PADEL",
+    "SQUASH", "MASATENİSİ", "VÜCUTGELİŞTİRME", "CROSSFIT", "ZUMBA", "AEROBİK",
+    "MUAYTAY", "KUNGFU", "AİKİDO", "KAPOEİRA"
   ],
   "Müzik": [
     "GİTAR", "PİYANO", "KEMAN", "FLÜT", "DAVUL", "ZURNA",
@@ -471,5 +479,77 @@
     "OYNAMAK", "ÇALIŞMAK", "DİNLENMEK", "SEVMEK", "SARILMAK", "BEKLEMEK",
     "BULMAK", "SAKLAMAK", "AÇMAK", "KAPATMAK", "YAPMAK", "BİNMEK",
     "İNMEK"
+  ],
+  "Kumaşlar": [
+    "PAMUK", "İPEK", "YÜN", "KETEN", "KADİFE", "KOT",
+    "DANTEL", "SATEN", "ŞİFON", "DERİ", "NAYLON", "POLYESTER",
+    "KEÇE", "TÜL", "FLANEL", "TAFTA", "BROKAR", "ŞAYAK",
+    "ABA", "KANEVİCE", "ORGANZA", "SÜET", "KAŞMİR", "ANGORA",
+    "MUSLİN", "PELÜŞ", "TÜVİT", "POPLİN", "KUMAŞ", "İPLİK",
+    "DOKUMA", "ÖRME", "DİKİŞ"
+  ],
+  "Dans ve Gösteri": [
+    "BALE", "HALAY", "ZEYBEK", "HORON", "SEMA", "TANGO",
+    "VALS", "SALSA", "KOREOGRAFİ", "GÖSTERİ", "CAMBAZ", "SİRK",
+    "PALYAÇO", "SİHİRBAZ", "HOKKABAZ", "MARİYONET", "KUKLA", "KARAGÖZ",
+    "ORTAOYUNU", "MEDDAH", "KONSER", "FİNAL", "ALKIŞ", "KOSTÜM",
+    "SAHNE", "PERDE", "DANSÖZ", "FOLKLOR", "TRAMPLEN"
+  ],
+  "Temizlik": [
+    "SABUN", "ŞAMPUAN", "DETERJAN", "ÇAMAŞIR", "SÜNGER", "FIRÇA",
+    "KOVA", "PASPAS", "SÜPÜRGE", "TOZ", "LEKE", "KÖPÜK",
+    "YUMUŞATICI", "DEZENFEKTAN", "BEZ", "SİLECEK", "ELDİVEN", "PARLATICI",
+    "KİREÇ", "ÇAMAŞIRSUYU", "BULAŞIK", "PAÇAVRA", "KÜREK", "TEMİZLİK",
+    "PIRIL", "HİJYEN", "BUHAR"
+  ],
+  "Kişisel Bakım": [
+    "DİŞFIRÇASI", "MACUN", "TARAK", "PARFÜM", "KREM", "RUJ",
+    "FÖN", "TIRAŞ", "USTURA", "LOSYON", "KOLONYA", "MAKYAJ",
+    "OJE", "MASKARA", "FONDÖTEN", "DEODORANT", "SAMPUAN", "SABUN",
+    "HAVLU", "BORNOZ", "KÜVET", "PENSET", "TIRNAKMAKASI", "AYNA",
+    "SAÇKREMİ", "JÖLE", "BOYA", "KUAFÖR", "MANİKÜR", "PEDİKÜR",
+    "PEELİNG", "SÜNGER", "LİF", "KESE"
+  ],
+  "Köy Yaşamı": [
+    "KÖY", "MUHTAR", "KÖYODASI", "DEĞİRMEN", "SAMAN", "HARMAN",
+    "KÖYLÜ", "TANDIR", "SAC", "YAYLA", "MERA", "ÇOBAN",
+    "SÜRÜ", "KÜMES", "AHIR", "AĞIL", "KUYU", "ÇEŞME",
+    "KERPİÇ", "BACA", "ODUN", "KOVAN", "YAYIK", "KAHVEHANE",
+    "ÇAYIR", "TARLA", "BAĞ", "BAHÇE", "HASAT", "DÜĞÜN",
+    "MEZRA", "KATIR", "ARABA"
+  ],
+  "Dünya Mutfağı": [
+    "SUŞİ", "PAELLA", "TAKO", "BURİTO", "RAMEN", "FELAFEL",
+    "GUAKAMOLE", "KİMÇİ", "KÖRİ", "GYOZA", "NAÇOS", "RİZOTTO",
+    "NYOKİ", "KREP", "FONDÜ", "GULAŞ", "ŞNİTZEL", "PADTAY",
+    "TEMPURA", "SASİMİ", "TAPAS", "GAZPAÇO", "BRUSKETTA", "CARBONARA",
+    "FETTUCCİNE", "LAZANYA", "RAVİOLİ", "PİZZA", "HAMBURGER", "HOTDOG",
+    "BAGET", "KİŞ", "RATATUY", "SOUFFLE", "MİSO", "TOFU",
+    "NORİ", "WASABİ", "ENCHİLADA"
+  ],
+  "Burçlar": [
+    "KOÇ", "BOĞA", "İKİZLER", "YENGEÇ", "ASLAN", "BAŞAK",
+    "TERAZİ", "AKREP", "YAY", "OĞLAK", "KOVA", "BALIK",
+    "BURÇ", "YÜKSELEN", "FALCI", "FAL", "TAROT", "HOROSKOP",
+    "KADER", "TALİH", "ŞANS", "UĞUR", "NAZAR", "TILSIM",
+    "MUSKA"
+  ],
+  "Dünya Dilleri": [
+    "TÜRKÇE", "İNGİLİZCE", "ALMANCA", "FRANSIZCA", "İTALYANCA", "İSPANYOLCA",
+    "RUSÇA", "ÇİNCE", "JAPONCA", "ARAPÇA", "FARSÇA", "YUNANCA",
+    "PORTEKİZCE", "HOLLANDACA", "LEHÇE", "MACARCA", "FİNCE", "İSVEÇÇE",
+    "KORECE", "HİNDİCE", "İBRANİCE", "LATİNCE", "ESPERANTO", "AZERİCE",
+    "KAZAKÇA", "ÖZBEKÇE", "BULGARCA", "SIRPÇA", "ROMENCE", "ÇEKÇE",
+    "UKRAYNACA", "ARNAVUTÇA", "GÜRCÜCE", "ERMENİCE", "KÜRTÇE", "NORVEÇÇE",
+    "DANCA"
+  ],
+  "Ticaret ve İş": [
+    "PATRON", "ŞİRKET", "ORTAK", "MÜŞTERİ", "SATIŞ", "ALIŞVERİŞ",
+    "PAZARLIK", "ZARAR", "STOK", "DEPO", "TEDARİK", "İHRACAT",
+    "İTHALAT", "FABRİKA", "ÜRETİM", "MARKA", "PAZARLAMA", "TOPTAN",
+    "PERAKENDE", "TOPLANTI", "SUNUM", "RAPOR", "STAJ", "MÜLAKAT",
+    "TERFİ", "İSTİFA", "İŞSİZLİK", "GİRİŞİM", "SERMAYE", "YATIRIMCI",
+    "ORTAKLIK", "KATALOG", "KARGO", "OFİS", "MESAİ", "KARİYER",
+    "YÖNETİCİ", "ÇALIŞAN", "KOLİ"
   ]
 }
