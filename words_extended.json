@@ -1,5 +1,5 @@
 {
-  "_meta": {"version": 4, "updatedAt": "2026-10-07", "note": "Kelime Ustası - ek kelime listesi."},
+  "_meta": {"version": 7, "updatedAt": "2026-10-14", "note": "Kelime Ustası - ek kelime listesi."},
   "Ülkeler": [
     "TÜRKİYE", "ALMANYA", "FRANSA", "İTALYA", "İSPANYA", "İNGİLTERE",
     "YUNANİSTAN", "PORTEKİZ", "HOLLANDA", "BELÇİKA", "İSVİÇRE", "AVUSTURYA",
@@ -17,7 +17,13 @@
     "BEYAZRUSYA", "LİTVANYA", "LETONYA", "ESTONYA", "ARNAVUTLUK", "MAKEDONYA",
     "KARADAĞ", "BOSNA", "KOSOVA", "MALTA", "KIBRIS", "KÜBA",
     "ŞİLİ", "PERU", "KOLOMBİYA", "VENEZUELA", "EKVADOR", "BOLİVYA",
-    "PARAGUAY", "URUGUAY", "YENİZELANDA"
+    "PARAGUAY", "URUGUAY", "YENİZELANDA", "KOSTARİKA", "PANAMA", "JAMAİKA",
+    "HAİTİ", "BAHAMALAR", "GUATEMALA", "HONDURAS", "NİKARAGUA", "MADAGASKAR",
+    "MOZAMBİK", "ZAMBİYA", "ZİMBABVE", "NAMİBYA", "BOTSVANA", "SUDAN",
+    "ERİTRE", "CİBUTİ", "LİBERYA", "MALİ", "NİJER", "ÇAD",
+    "BURKİNAFASO", "BENİN", "TOGO", "FİJİ", "SAMOA", "TONGA",
+    "BRUNEİ", "KAMBOÇYA", "LAOS", "MYANMAR", "BUTAN", "MALDİVLER",
+    "SRİLANKA", "TAYVAN", "LÜKSEMBURG", "LİHTENŞTAYN", "ANDORRA", "MONAKO"
   ],
   "Uzay": [
     "GEZEGEN", "YILDIZ", "GÜNEŞ", "DÜNYA", "MARS", "JÜPİTER",
@@ -200,10 +206,15 @@
     "POSEIDON", "HADES", "AFRODİT", "ARTEMİS", "DİONYSOS", "HEFAİSTOS",
     "HERKÜL", "ODİSSEUS", "AKHİLLES", "PERSEUS", "TEZEUS", "ORFEUS",
     "PANDORA", "MEDUSA", "MİNOTOR", "SFENKS", "GRİFON", "ANKA",
-    "EJDERHA", "PERİ", "CİN", "DEV", "CÜCE", "ELF",
-    "TROLL", "HİDRA", "KİMERA", "SİREN", "KENTAUR", "PEGASUS",
-    "ODİN", "THOR", "OLYMPOS", "TARTAROS", "KRONOS", "İKARUS",
-    "NARSİS", "EROS", "PSİKE", "HELİOS", "DEMETER"
+    "EJDERHA", "PERİ", "DEV", "CÜCE", "ELF", "TROLL",
+    "HİDRA", "KİMERA", "SİREN", "KENTAUR", "PEGASUS", "ODİN",
+    "THOR", "OLYMPOS", "TARTAROS", "KRONOS", "İKARUS", "NARSİS",
+    "EROS", "PSİKE", "HELİOS", "DEMETER", "ATLAS", "PROMETEUS",
+    "ECHO", "HİPNOS", "TANATOS", "NİKE", "İRİS", "EOS",
+    "SELENE", "ATLANTİS", "ELİZYUM", "STİKS", "LETHE", "SKYLLA",
+    "HARİBDİS", "CERBERUS", "VALHALLA", "LOKİ", "FREYA", "RAGNARÖK",
+    "ANUBİS", "OSİRİS", "RA", "İSİS", "HORUS", "BASTET",
+    "THOTH", "ŞAHMERAN", "TEPEGÖZ", "KARAKOÇAN"
   ],
   "Hukuk ve Adalet": [
     "HUKUK", "ADALET", "YASA", "KANUN", "MAHKEME", "YARGIÇ",
@@ -285,7 +296,10 @@
     "KARİKATÜR", "PORTRE", "MANZARA", "NATÜRMORT", "ESKİZ", "TASLAK",
     "GALERİ", "SERGİ", "KÜRATÖR", "RESSAM", "HEYKELTRAŞ", "SANATÇI",
     "ATÖLYE", "BASKI", "GRAFİTİ", "KUBİZM", "SÜRREALİZM", "MODEL",
-    "KOMPOZİSYON", "PERSPEKTİF", "TON", "DESEN"
+    "KOMPOZİSYON", "PERSPEKTİF", "TON", "DESEN", "ROKOKO", "BAROK",
+    "İZLENİMCİLİK", "DADAİZM", "POPART", "MİNİMALİZM", "SOYUTLAMA", "RÖLYEF",
+    "OYMA", "LİTOGRAFİ", "GRAVÜR", "AKUARELL", "GUVAŞ", "ÇİZGİROMAN",
+    "ANİME", "MANGA", "PİKSELSANAT", "MURAL", "SOKAKSANATI"
   ],
   "Başkentler": [
     "ANKARA", "BERLİN", "PARİS", "ROMA", "MADRİD", "LONDRA",
@@ -311,5 +325,49 @@
     "POSTA", "ZARF", "PUL", "KARTPOSTAL", "TELGRAF", "FAKS",
     "MESAJ", "ARAMA", "PODCAST", "ABONE", "TİRAJ", "ARŞİV",
     "KÖŞE", "SANSÜR", "ANTEN"
+  ],
+  "Dünya Şehirleri": [
+    "BARSELONA", "MİLANO", "MÜNİH", "HAMBURG", "VENEDİK", "FLORANSA",
+    "NAPOLİ", "İSKENDERİYE", "CEDDE", "MEKKE", "MEDİNE", "KUDÜS",
+    "DUBAİ", "MUMBAİ", "SİDNEY", "TORONTO", "ŞANGHAY", "OSAKA",
+    "KYOTO", "MARAKEŞ", "KAZABLANKA", "ZÜRİH", "CENEVRE", "SALZBURG",
+    "LİVERPOOL", "MANCHESTER", "LYON", "MARSİLYA", "PORTO", "SEVİLLA",
+    "VALENSİYA", "SELANİK", "BATUM", "KERBELA", "NECEF", "BASRA",
+    "HALEP", "ŞİKAGO", "BOSTON", "MİAMİ", "VANKUVER", "MONTREAL",
+    "MELBURN", "KALKÜTA", "DELHİ", "LAHOR", "KARAÇİ", "PRAG",
+    "KRAKOV", "BARSA", "NEAPOL", "SAMARKAND", "BUHARA", "HİVE",
+    "KAŞGAR"
+  ],
+  "Fotoğrafçılık": [
+    "OBJEKTİF", "FLAŞ", "TRİPOD", "DİYAFRAM", "POZLAMA", "ODAK",
+    "KADRAJ", "ALBÜM", "FİLM", "LENS", "FİLTRE", "KARANLIKODA",
+    "BASKI", "PORTRE", "PEYZAJ", "MAKRO", "ZUM", "NEGATİF",
+    "PROJEKSİYON", "ÇEKİM", "KAMERA", "RENK", "IŞIK", "GÖLGE",
+    "NETLİK", "ÇÖZÜNÜRLÜK", "PİKSEL", "KAREKOD", "SELFİE", "STÜDYO",
+    "MODEL", "FOTOĞRAFÇI", "ENSTANTANE", "PANORAMA", "KOLAJ"
+  ],
+  "Enerji ve Çevre": [
+    "KÖMÜR", "PETROL", "DOĞALGAZ", "NÜKLEER", "JEOTERMAL", "HİDROELEKTRİK",
+    "BARAJ", "TÜRBİN", "PANEL", "BATARYA", "GERİDÖNÜŞÜM", "ATIK",
+    "KİRLİLİK", "EMİSYON", "OZON", "İKLİM", "ISINMA", "SERA",
+    "ORMAN", "SÜRDÜRÜLEBİLİR", "ÇEVRE", "KOMPOST", "PLASTİK", "CAM",
+    "KAĞIT", "METAL", "ENERJİ", "RÜZGAR", "GÜNEŞ", "DALGA",
+    "BİYOYAKIT", "HİDROJEN", "DİNAMO", "JENERATÖR", "TRAFO", "ŞEBEKE",
+    "KABLO", "ELEKTRİK", "VOLTAJ", "SANTRAL"
+  ],
+  "Sirk ve Eğlence": [
+    "SİRK", "PALYAÇO", "HOKKABAZ", "SİHİRBAZ", "CAMBAZ", "LUNAPARK",
+    "ATLIKARINCA", "ROLLERKOSTER", "ÇARPIŞANARABA", "BALON", "PAMUKŞEKER", "MISIRPATLAĞI",
+    "ŞENLİK", "PANAYIR", "KUKLA", "MARİYONET", "GÖSTERİ", "SEYİRCİ",
+    "ALKIŞ", "KOSTÜM", "MASKE", "KONFETİ", "ARENA", "TRAMPLEN",
+    "İPCAMBAZI", "AKROBAT"
+  ],
+  "Ev Aletleri": [
+    "BUZDOLABI", "ÇAMAŞIRMAKİNESİ", "BULAŞIKMAKİNESİ", "FIRIN", "OCAK", "DAVLUMBAZ",
+    "MİKRODALGA", "ÜTÜ", "SÜPÜRGE", "KURUTMA", "ŞOFBEN", "KOMBİ",
+    "KLİMA", "VANTİLATÖR", "NEMLENDİRİCİ", "SAÇKURUTMA", "TOSTMAKİNESİ", "KAHVEMAKİNESİ",
+    "DİKİŞMAKİNESİ", "RADYATÖR", "SOBA", "ŞOMİNE", "TERMOSİFON", "TELEVİZYON",
+    "RADYO", "PİKAP", "ÇAYMAKİNESİ", "SEBZERENDE", "ÇIRPICI", "DOĞRAYICI",
+    "İNDÜKSİYON", "HAVALANDIRMA"
   ]
 }
